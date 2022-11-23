@@ -1,742 +1,742 @@
 category,text
-Knowledge,1. List two reference parameters in the setHour function
-Knowledge,"2. Explain briefly the meaning of the following terms: Demography, Consumer sales promotion , and Media mix"
-Knowledge,3. Label the parts of the diagram
-Knowledge,"4. Based on the above dataType class, list all the function members"
-Knowledge,5. Define morphology
-Knowledge,6. Define Method in JAVA.
-Knowledge,7. Define Inheritance concept
-Knowledge,8. What is Encapsulation ?
-Knowledge,9. Name the authors of...?
-Knowledge,10. List the fractions you know and can show....
-Knowledge,11. List the __________________ in descending order
-Knowledge,12. List the attributes of the following shape.
-Knowledge,13. List two local variables in the main function
-Knowledge,14. List the data members
-Knowledge,15. List important information you can remember from lesson....
-Knowledge,16. Make a list of the main events of the story.
-Knowledge,17. Memorize and recall the periodic table
-Knowledge,18. Memorize the multiplication facts
-Knowledge,19. Memorize the meaning of ...
-Knowledge,20. Name three 19th-century women English authors.
-Knowledge,21. Name all the characters in the story.
-Knowledge,22. Name five cities in US.
-Knowledge,23. Recall the main components of the flowchart
-Knowledge,24. Recall four facts from the story
-Knowledge,25. What do you recall ...?
-Knowledge,26. What is the definition of the following terms...
-Comprehension,1. Can you explain what is happening . . . what is meant . . .?
-Comprehension,2. Class Facility is an abstract class. Explain what this means
-Comprehension,3. Draw a diagram explaining how air pressure affects the weather.
-Comprehension,4. Describe how interest rates affect the economy
-Comprehension,5. Explain what is happening in the first picture of the story.
-Comprehension,6. Explain why the story has the title that it does.
-Comprehension,7. Explain how the heart is like a pump.
-Comprehension,8. Explain what is happening...
-Comprehension,9. Explain what is meant.
-Comprehension,10. Explain in one sentence what the method incFromN does
-Comprehension,11. How would you explain...?
-Comprehension,12. How would you express ________________?
-Comprehension,13. How can you describe _____________?
-Comprehension,14. How would you classify the type of ...?
-Comprehension,15. How can you explain what is meant ...?
-Comprehension,16. Draw a flowchart to accept a number and output its factorial.example 1: input 5 -> 5! = 5x4x3x2x1 -> output 120
-Comprehension,17. Identify the key points in the text
-Comprehension,18. Identify three mistakes from the passage and correct them.
-Comprehension,19. State in your own words ...
-Comprehension,20. State in one word ...
-Comprehension,21. Put in your own words...
-Comprehension,22. What is the difference between atomic and molecular mass?
-Comprehension,"23. In your own words, tell what the story is about."
-Application,1. Design or sketch a marketing strategy for your product using a known strategy as a model.
-Application,2. Sketch an experiment to see how plants grow in different kinds of soil.
-Application,3. Sketch a diagram which shows these fractions or take photographs of the fractions.
-Application,"4. Demonstrate and illustrate measures of central tendency and dispersion, write a journal entry."
-Application,5. Interpret the graph and state how many trees were cut down to produce paper.
-Application,6. How does the law of supply and demand explain the current increase in the price of fruit?
-Application,7. Predict what would happen if ...
-Application,8. Write a textbook about this topic for others.
 Application,9. Write what you might have done.
-Application,10. Write an explanation about this topic for others
-Application,11. Write a C++ statement to declare a variable of type musicType name MyTune.
-Application,12. Draw an illustration of the linked list after the execution of each of the statement below. (Use the original illustration for each question).
-Application,13. Write the definition of displaySize() method for each class
-Application,14. Suggest a way to deal with this scenario
-Application,15. Choose the best statements that apply ...
-Analysis,1. Analyze the selected information.
-Analysis,2. Can you discriminate the difference parts . . . ?
-Analysis,3. Discriminate the pros and cons of ____.
-Analysis,4. Analyze the following questionnaire.
-Analysis,5. How can you categorize ____ according to...?
-Analysis,6. How can you distinguish the different parts of_____?
-Analysis,7. How can you differentiate between...?
-Analysis,"8. Discriminate the different parts of the story (introduction, development, climax, resolution.)"
-Analysis,9. Analyze a distinction. State the point of view of . . .
-Analysis,10. Categorize the story into parts and think of a good title for each of the parts.
-Analysis,"11. Analyze a work of art in terms of form, color and texture."
-Analysis,"12. Trace the contents of matrix from the following statements int matrix[3][2];int j, k;for (j = 0; j < 3; j++)for (k =h 0; k < 2; k++)matrik[j][k] = j + k;"
-Analysis,13. Trace the value of alpha after the following code executes. int alpha[5];int j;alpha[0] = 5;for (j = 1; j < 5; j++){if(j % 2 == 0)alpha[j] = alpha[j - 1] + 2;else alpha[j] = alpha[j - 1] + 3;}
-Analysis,14. What distinctions can be made about...and...?
-Analysis,15. What is the relationship between probability and statistical analysis?
-Analysis,16. What is the analysis of ______________?
-Analysis,17. Draw a diagram to show the memory configuration after the following statements ....
-Analysis,18. What has the author used to create this effect
-Analysis,19. Compare and contrast the two items and produce a summary of their similarities and differences
-Analysis,20. Develop a set of criteria for distinguishing between a good and bad example of this.
-Analysis,21. What evidence can you find to suggest that people should be regarded as the most important resource of an organisation?
-Analysis,"22. While the futures market is too risky for most investors, this risk creates the opportunities for large returns. Discuss."
-Analysis,23. What evidence can you list for...
-Synthesis,1. Create several different strategies to solve a mathematical problem.
-Synthesis,2. Can you propose an alternative plan to . . . ?
-Synthesis,3. Can you develop method to handle the following case . . . ?
-Synthesis,4. Can you propose a model that would change . . . ?
-Synthesis,5. Can you think of an original way for collect and develop the . . . ?
-Synthesis,6. Develop a menu for a new healthy foods restaurant
-Synthesis,7. Design a scientific study to test the effect of different kinds of music on hens' egg production.
-Synthesis,8. Design a building to house your study.
-Synthesis,"9. Design a record, book or magazine cover for..."
-Synthesis,10. Design a new monetary system or an experiment for establishing.
-Synthesis,11. Create several scientific hypotheses to ...
-Synthesis,12. Propose an alternative way to solve ...
-Synthesis,13. Propose a set of alternatives for reducing dependence on fossil fuels that address both economic and environmental concerns.
-Synthesis,14. Rewrite the story from an animal's point of view.
-Synthesis,"15. Rewrite the story briefly, but change someone or something in it. (For example, substitute a dog for a wolf in The Three Little Pigs)."
-Synthesis,"16. Use your imagination to create a picture about the story. Then, add one new thing that was not in the story."
-Synthesis,17. What hypotheses can you develop based on the data ? Why ?
-Synthesis,18. Write a journal from the point of view of mountaineer.
-Synthesis,19. Write about your feelings in relation to...
-Synthesis,"20. Write a TV show play, puppet show, role play, song or pantomime about.."
-Synthesis,21. Write a poem about the story.
-Synthesis,22. Write 5 new titles for the story that would give a good idea of what it was about
-Synthesis,23. Write another ending to the story that is different from the author's ending.
-Synthesis,24. Write a JAVA program to show the Overloading concept
-Synthesis,25. Write a program that uses nested loops to print the following output:
-Synthesis,"26. Write a program to calculate the SQRT for Array elements, you may use the Math class function (sqrt), the Array should include 5 Integer elements. The output should be the array elements along with their SQRT value."
-Synthesis,27. Create an advertising campaign
-Synthesis,28. Construct an alternative way to ...
-Synthesis,29. Devise a different way of using X
-Synthesis,30. Merge the different ideas into a single solution.
-Evaluation,1. Can you defend your position about ... ?
-Evaluation,2. Can you assess the value or importance of . . . ?
-Evaluation,3. What limitation does X have?
-Evaluation,4. Develop a proof ... and justify each step ...
-Evaluation,"5. ""Don't use public instance variables"" is defensive programming techniques. discuss why it is good advice?"
-Evaluation,6. How would you justify . . . ?
-Evaluation,7. Judge the value of... What do you think about...?
-Evaluation,8. Judge how well a project meets the criteria of a rubric.
-Evaluation,9. Judge the validity of arguments for and against astrology
-Evaluation,10. Justify the concept of inheritance and give the sample of code to illustrate your answer.
-Evaluation,11. Justify the object oriented programming concept
-Evaluation,"12. Prepare a case to present, and evaluate your view about ..."
-Evaluation,13. Prepare a list of criteria to judge ... Evaluate expressions
-Evaluation,14. Rate the following recommendations and set the priority _____.
-Evaluation,15. What data was used to evaluate ____________?
-Evaluation,16. What judgments can you make about...?
-Evaluation,17. What criteria would you use to assess...?
-Evaluation,18. What criteria would you use to evaluate if your answer is correct?
-Evaluation,19. What would you cite to defend the actions . . . ?
-Evaluation,20. Outline how class ArrayList could be implemented using an array
-Evaluation,21. Can you justify the decisions you have made ?
-Evaluation,22. How would you rank the items given the criteria ?
-Evaluation,"23. Your advice has been sought to settle the following dispute in Company X. Referring to appropriate legal principles, write a short report advising the company on the best course of action to adopt."
-Evaluation,24. What criticisms could you make ?
-Knowledge,1. About what proportion of the population of the US is living on farms?
-Knowledge,2. Correctly label the brain lobes indicated on the diagram below
-Knowledge,3. Define compound interest.
-Knowledge,4. Define four types of traceability.
-Knowledge,5. Define mercantilism.
-Knowledge,"6. Define stream bank, floodplain and substrate."
-Knowledge,7. Define the meaning of the Olympic Motto.
-Knowledge,8. Draw and label a diagram of a typical stream.
-Knowledge,9. Draw the basic outline of a page of notes using the Cornell Method?
-Knowledge,10. Draw the block diagram of the central processing unit
-Knowledge,11. Draw the flow chart of the PNK system
-Knowledge,12. How many instructions in the instruction set of RISC computer?
-Knowledge,13. How many kilometers from your home to the university
-Knowledge,14. How many loop statement available in c++?
-Knowledge,15. How many states are there in USA
-Knowledge,16. How many years does this animal live?
-Knowledge,17. How much data can be stored in the cach memory
-Knowledge,18. How much did he pay for his car
-Knowledge,19. How much is your weight
-Knowledge,20. How much time did he took to build a house
-Knowledge,21. How much water does an elephant drink
-Knowledge,22. Identify a phrase as a simile
-Knowledge,"23. Identify a property (commutative, additive, etc("
-Knowledge,24. Identify fractions from a pictorial representation
-Knowledge,25. Identify ordinal positions
-Knowledge,26. Identify the correct definition of osmosis.
-Knowledge,27. Identify the five major prophets of the Old Testament.
-Knowledge,28. Identify the part of a eukaryotic cell.
-Knowledge,29. Identify the standard peripheral components of a computer.
-Knowledge,30. Identify which word begins with the same sound as the s in sun (Knowledge of letter s)
-Knowledge,31. in which continent does the state of suriname fall
-Knowledge,32. in which countries is arabic language spoken
-Knowledge,33. In Which part of the world does he live
-Knowledge,34. Label any Olympic sporting apparatus with design features.
-Knowledge,35. Label the parts of the following insects: Grasshopper
-Knowledge,36.  Label the parts of the microscope shown on the right
-Knowledge,37. List four types of clauses mentioned in the article
-Knowledge,38. List reserved words in C programming.
-Knowledge,39. List the characteristics peculiar to the Cubist movement.
-Knowledge,40. List the levels in Bloom's Taxonomy.
-Knowledge,41. List the procedure to draw a mixed potential or Evans' diagram
-Knowledge,42. List the steps involved in titration.
-Knowledge,43. List three characteristics that are unique to the Cubist movement.
-Knowledge,44. List three predominant economic systems that exist
-Knowledge,45. Look at the symbol. What is the symbol's purpose on a map?
-Knowledge,46. Make a list of facts you learned from the story.
-Knowledge,47. Name 5 steps that follow the taking of notes (within 24 hours or less)?
-Knowledge,48. Name the artist who painted the Mona Lisa.
-Knowledge,49. Name the food groups and at least two items of food in each group.
-Knowledge,50. Name the four major food groups.
-Knowledge,51. Name the main characters in the story.
-Knowledge,52. Name the property that states that
-Knowledge,53. Please label the diagram below:
-Knowledge,54. Recall basic math facts
-Knowledge,55. Recall locations of a historical events
-Knowledge,56. Recall the definition of the formula datatype from your assignment 2.
-Knowledge,57. Recall the equation for the Ideal Gas Law.
-Knowledge,58. Recall the following pictoral example of an implementation of some queue operations
-Knowledge,59. recall the supply voltage constraints
-Knowledge,60. Recite a policy of immigration in Europe .
-Knowledge,"61. Recite the poem ""Auto Wreck""."
-Knowledge,62. Recite the principles of the Data Protection Act.
-Knowledge,63. Recite the the Gaussian law
-Knowledge,64. State four attributes of well engineered software.
-Knowledge,65. State how to find a word in a dictionary
-Knowledge,66. State the characteristics of each type of corrosion testing studied
-Knowledge,67. State the definition of application in Bloom's Taxonomy.
-Knowledge,68. State the formula for the area of a circle
-Knowledge,69. State the guidelines to design an anodic protection system
-Knowledge,70. State the pattern for expressing time in French.
-Knowledge,71. State the rule for balls and strikes in baseball.
-Knowledge,72. State the rule for using a semicolon in a sentence.
-Knowledge,73. What are major facts about particular cultures and societies
-Knowledge,74. What are the major products and exports of countries
-Knowledge,75. What are the representational symbols on maps and charts
-Knowledge,76. What are the structure or functions of Congress
-Knowledge,77. What are the units of corrosion penetration rates? Relate these to Faraday's law
-Knowledge,78. What does ICT stands for.
-Knowledge,79. What is  your family name
-Knowledge,80. What is a global variable?
-Knowledge,81. What is a textual index
-Knowledge,82. What is the setting of To Kill a Mockingbird?
-Knowledge,83. What is the title of the first movie you saw
-Knowledge,84. What season are we in right now?
-Knowledge,85. when did saudi arabia start using internet
-Knowledge,86. when did the first saudi radio station open
-Knowledge,87. When did the second world war happen
-Knowledge,88. When did you born ?
-Knowledge,89. when was the first airport in the yemen built
-Knowledge,90. when was the UN formed
-Knowledge,91. Which of the following is the method for determining the volume of a cylinder?
-Knowledge,92. Which of the following item does not belong to the set ?
-Knowledge,93. Which of the two liquids is hypotonic
-Knowledge,94. which part of a data packet is used by a router to determine the destination network
-Knowledge,95. Which technology is used by laser printer
-Knowledge,96. Who is the first president   of USA
-Knowledge,97. who is the founder of the kingdom of saudi Arabia
-Knowledge,98. who was the first man on the moon
-Knowledge,99. who was the first to compose in the arts of makamat
-Knowledge,100. Who was the writer of the Hamilton
-Comprehension,1. Compare Calliope with Howie. Use the word bank.
-Comprehension,2. Compare historical events to contemporary situations
-Comprehension,3. Complete an analogy (analogy tasks are inference tasks)
-Comprehension,4. Describe 4 types of coupling in software design.
-Comprehension,5. Describe how Phillip and Timothy survived on the Cay.
-Comprehension,6. Describe in prose what is shown in graph form.
-Comprehension,7. Describe in your own words how to borrow a book from the library.
-Comprehension,8. Describe in your own words how to copy text from one program into another.
-Comprehension,9. Describe in your own words what happens when a stream's velocity slows.
-Comprehension,10. Describe in your own words what is meant by a sprained ankle.
-Comprehension,11. Describe nuclear transport to a lay person.
-Comprehension,12. Describe the Pareto Principle in statistical software quality assurance.
-Comprehension,13. Describe what goes in each of the four areas on the first page of notes
-Comprehension,14. Describe what took place as the Hato was sinking.
-Comprehension,15. Describe how the linear polarization method can yield corrosion rates
-Comprehension,16. Describe the major clinical differences between visceral and somatic pain
-Comprehension,17. Briefly describe the author's approach to the liabilities of the GOTO statement
-Comprehension,18. Describe what happened at...?
-Comprehension,19. Determine the author's point of view
-Comprehension,20. Determine the next number in a sequence
-Comprehension,21. Discuss the nature of socialism.
-Comprehension,22. Explain how Timothy saved Phillip's life.
-Comprehension,23. Explain in one's own words how to create a query in a database.
-Comprehension,24. Explain in your own words what a recessive gene is.
-Comprehension,25. Explain in your own words what do you mean by the term economics?
-Comprehension,26. Explain in your own words what is meant by mercantilism.
-Comprehension,27. Explain the causes of historical events
-Comprehension,28. Explain the communicative property.
-Comprehension,"29. Explain the double meaning the author attributes to the term ""successive action descriptions"""
-Comprehension,30. Explain the possible uses described in class for the space to the left of the vertical line.
-Comprehension,31. Explain the process (paraphrase) for finding the perimeter of a rectangular garden
-Comprehension,32. Explain what a poem means.
-Comprehension,"33. Explain what the author means by the statement ""our intellectual powers are geared to master static relations."
-Comprehension,34. Express your opinion of 'Drugs in Sport' through poetry.
-Comprehension,35. From a blueprint to describe the article depicted.
-Comprehension,"36. Given a graph of production trends in automobiles, describe what the graph represents in a memo to your boss."
-Comprehension,"37. Given these five corrosion inhibitors, V, W, X, Y, Z, identify which are passivators"
-Comprehension,"38. Illustrate this caption: ""Olympic as a Media Event in the Information Society"""
-Comprehension,39. Illustrate what you think the main idea was.
-Comprehension,40. In one sentence explain the main idea of a written passage.
-Comprehension,41. In one sentence illustrate the main point of a written passage.
-Comprehension,42. Interpret the pictures.
-Comprehension,43. Outline in your own words how the Leggo's Tomato Paste advertisement sells their product.
-Comprehension,44. Outline the most important insight of the tale.
-Comprehension,45. Outline the mechanisms employed by bacteria allowing them to evade phagocytic destruction.
-Comprehension,"46. Outline an ""attack plan"" that will allow you to test your hypothesis using computational molecular modeling tools"
-Comprehension,47. Paraphrase an important speech
-Comprehension,48. Paraphrase what Hamlet is saying in his soliloquy.
-Comprehension,49. Paraphrase the poem in your own words
-Comprehension,"50. Paraphrase this poem about Sheik Schubli, explaining what he was saying about the characteristics of a friend"
-Comprehension,51. Describe the output of this program fragment:
-Comprehension,52. Classify types of corrosion inhibitors
-Comprehension,53.  would you classify the zener diode in this circuit as a series voltage regulator or a shunt voltage regulator
-Comprehension,"54. Classify the following protocols: IP, TCP, HTTP according to the ISO OSI classification"
-Comprehension,"55. Classify the following substances as particle, atom, element, molecule, compound"
-Comprehension,56. How would you classify the geographic location of your school
-Comprehension,57. Classify animals into two groups.
-Comprehension,58. Classify celebrations into family and community categories.
-Comprehension,59. Classify frogs toads and other amphibians.
-Comprehension,60. Restate main idea of story in own words.
-Comprehension,61. Restate the Olympic motto in your own words.
-Comprehension,62. Retell the story in your words.
-Comprehension,63. Rewrite the principles of test writing.
-Comprehension,64. Rewrite you predicted equation for the ideal gas law
-Comprehension,65. Rewrite the markov matrix to account for this slight change.
-Comprehension,"66. Rewrite the sentence in your head, following the direction given below"
-Comprehension,67. Rewrite a part in the poem using a different speaker
-Comprehension,68. Select the best title for a passage
-Comprehension,69. State in your own words the rule for balls and strikes in baseball.
-Comprehension,70. State in your own words where in the library to find previous issues of journals that are no longer in the display racks.
-Comprehension,71. Can you state in your own words what the problem is asking you to do
-Comprehension,72. State in your own words what the author means when he says
-Comprehension,73. Summarize a historical document
-Comprehension,74. Summarize a story in own words.
-Comprehension,75. Summarize Jem's beliefs about Boo Radley
-Comprehension,76. Summarize the basic tenets of collaborative conservation.
-Comprehension,77. Summarize the basic tenets of deconstructionism.
-Comprehension,78. Summarize this magazine article.
-Comprehension,79. Tell how Phillip kept himself alive after Timothy died.
-Comprehension,80. Tell in your own words how the setting of the story made it more interesting.
-Comprehension,81. Tell in your own words the beginning of the book.
-Comprehension,"82. In your own words, tell what is meant by the definition of an isosceles triangle."
-Comprehension,"83. In your own words, how would you define transferable skills"
-Comprehension,84. Translate a written text aloud from L2 to English.
-Comprehension,85. Translate an equation into a computer spreadsheet.
-Comprehension,86. Translate an equation into a spreadsheet formula.
-Comprehension,87. Translate the following passage from The Iliad into English.
-Comprehension,88. Use the E-pH or Pourbaix diagram of Cr to determine the control current and potential for the anodic protection of a S43000 stainless steel vessel.
-Comprehension,"89.  Compare and contrast two treatments of either drapery or animals by Greek sculptors, establishing their artistic contexts"
-Comprehension,"90.  Briefly compare this way of testing the satisfiability of to the more standard way using SLD Resolution, as in Prolog"
-Comprehension,91.  How would you compare SAS with the Visual Basic Application and SPSS for the processing and analysis of mainframe data
-Comprehension,92.   Describe and compare the role of Islamic law in the legal systems of Malaysia and Pakistan
-Comprehension,93. Express the rule in function notation
-Comprehension,94. Express the following systems in matrix form
-Comprehension,95. Express the following percentages as fractions in simplest form
-Comprehension,96. Explain the whole method of crushing
-Comprehension,"97. In your own words, how would you summarize the story up"
-Comprehension,98. Summarize the main point of these two texts in your own words
-Comprehension,99. Outline the aim of two studies within the
-Comprehension,100.  Outline your experience in working with service users
-Application,1. Apply laws of statistics to evaluate the reliability of a written test.
-Application,2. Apply shading to produce depth in drawing.
-Application,3. Apply the rule of law to a new situation
-Application,4. Apply the storytelling technique here to a little story of your own.
-Application,5. Apply your understanding the Olympic spirit to develop a new motto or slogan.
-Application,6. Show the value of x after running this program fragment
-Application,7. Calculate for x in the following equation: 12x=36
-Application,8. Calculate the deflection of a beam under uniform loading.
-Application,9. Calculate the number of sacrificial anodes that would be required to form a calcareous deposit on a steel pile immersed in seawater.
-Application,10. Calculate the rate of habitat fragmentation within the Colorado Front Range in the last decade.
-Application,11. Can you apply the method used to some experience of your own . . .?
-Application,12. Can you group by characteristics such as . . .?
-Application,13. Categorise the pictures and add them to the wall display.
-Application,14. Choose a country that does not compete at the Olympics and explain why that country is not an Olympic member.
-Application,15. Choose any U.S. president and explain how he exercised his power as Commander in Chief of the Armed Forces.
-Application,16. Compute the area of actual circles.
-Application,17. Compute the volume of a cylinder
-Application,18. Construct a model to demonstrate how it will work.
-Application,19. Demonstrate how the seasons occur.
-Application,20. Demonstrate how this could work in an industry setting?
-Application,21. Demonstrate using the OPAC and your knowledge of library organization to find a book about turtles.
-Application,22. Demonstrate how your unit's specific student learning outcomes are linked to the mission of UAM.
-Application,23. Derive a kinetic model from experimental data.
-Application,24. Describe an experiment to answer the question of the effects of weight on the fall of an object.
 Application,25. Construct a market strategy for your product using a known strategy as a model.
-Application,26. Construct a simple payroll program that computes net pay for those working 40 hours or less and net pay for those working over 40 hours.
-Application,"27. Draw 3 pictures showing the beginning, middle and ending of the story."
-Application,28. Draw a picture of the bears' house.
-Application,29. Draw a picture of the gown Cinderella wore to the ball.
-Application,"30. From the information given, can you develop a set of instructions about . . .?"
-Application,31. How could someone modify the Cornell Method to make it effective for researching a topic for a paper?
-Application,32. How might lifestyles in the United States be modified if a more socialistic system were adopted?
-Application,"33. If notes are available on the professor's website, how should those notes be used?"
-Application,"34. In a teaching simulation with your peers role-playing 6th grade students, demonstrate the principle of reinforcement in classroom interactions and prepare a half page description of what happened during the simulation that validated the principle."
-Application,35. Make a diorama to illustrate an important event.
-Application,36. Make a paper-mache map to include relevant information about an event.
-Application,37. Make a scrapbook about the areas of study.
-Application,38. Make up a puzzle game using the ideas from the study area.
-Application,39. Model an Olympic Village for the new Millenium.
-Application,40. Participate in a mock election
-Application,41. Predict what happens to X if Y increases.
-Application,42. Pretend you are one of the characters in the book. Write a diary about the happenings in your life for two consecutive days.
-Application,43. Relate the principle of reinforcement to classroom interactions.
-Application,44. Relate topographic map to field features
-Application,45. Relate your most powerful story where your use of technology in the classroom has yielded a significant outcome with a student or students
-Application,46. How would you relate position concept with position strategy
-Application,"47. Show, through role-play, the final scene in the novel."
-Application,48. Solve a math problem using familiar procedure or formula
-Application,49. Solve for the ten following fraction multiplication problems. Please make sure to show all your work.
-Application,50. Would you solve these two problems using similar approaches
-Application,51. Use Laplace to solve the following problems
-Application,52. Can you solve the following problem
-Application,53. How to specify the impact energy and impact test temperature of the material in the Code
-Application,54. Specify the thickness of a galvanized coating based on atmospheric data? (level 2)
-Application,55. Specify the thickness of a galvanized coating based on atmospheric data? (level 2)
-Application,56. How does one specify the syntactical restrictions
-Application,57. Specify a deterministic finite automaton (DFA) recognizing the
-Application,58. Take a collection of photographs to demonstrate a particular point.
-Application,59. Use a costing model to compute prices on goods to maximise profits and minimise costs.
-Application,60. Use a manual to calculate an employee's vacation time.
-Application,61. Use the distance travelled and cost of petrol to calculate the cost of a coach trip using a spreadsheet.
-Application,62. Use the rule for a semicolon in a sentence.
-Application,63. What factors would you change if . . .?
-Application,64. What questions would you ask if . . .?
-Application,65. Who can use what we know about sonnets and finish this poem?
-Application,66. Would this information be useful if you had a . . .?
-Application,67.  Sketch a prediction of the field lines for the arrangement of electrodes shown in Figure 2
-Application,68. Sketch the blackbody curves for radiation emitted from the Sun and the Earth
-Application,69. Sketch a typical absorption process in a packed column with regeneration in form of
-Application,70.  sketch a graph of velocity versus time for the upward and downward parts of a ball's flight
-Application,71. How do teenagers use code in emails and instant messages?
-Application,72.  Use the second-derivative test to determine whether critical points where f0(x) = 0 yield relative maxima or relative minima
-Application,73.   Use the unification algorithm to determine whether the following two terms are uni_able. Show intermediate step
-Application,74. Use tableau methods to prove that the following tableau is valid.
-Application,75. Use a sketch too find the exact value of each expression
-Application,76. Use Gauss' Law to find the electric field between the plates when the charge on them is Q
-Application,77.  What happens if you restrict a determinental process to a subset R  S?
-Application,78. What would happen if the rainfall doubled in your state next year
-Application,79. What happens if you change the direction of the displacement (but not its size)?
-Application,80. What would you do if a heavy growth of bacteria had occurred
-Application,81. What would result if ...
-Application,82. What approach would you use to prove the truth of the below statement
-Application,83.  Construct one Turing Machine for computing each of the following functions
-Application,84. Construct a Venn diagram to determine the validity of the given argument.
-Application,85. Construct a dictionary and a truth table to determine if the following statements are logically equivalent
-Application,"86. How can we construct H given I, B and E?"
-Application,87.  Construct a family of networks to demonstrate that the number of different mincuts in a network can be exponential in the size of the network
-Application,88.  How do you construct foliations on a given manifold M?
-Application,89. How to Construct the Optimal Maintenance Problem
-Application,90. How to construct simple solutions when problems are complex?
-Application,91. Construct the 4-Bit Ripple carry Adder Circuit
-Application,92. Construct an analog circuit with the following specifications
-Application,93. Construct the Data Path of the RISC Processor given in the previous question
-Application,"94. How do we construct agents that can deliver. ""good"" assistance"
-Application,95. How to construct the selected information system
-Application,96. Show how they have used creative writing strategies appropriate to the format
-Application,97. Show how to modify Fitch's algorithm given in class today to accommodate non-binary
-Application,98. Show how E-CRM can be used to improve marketing positioning as explained in the article
-Application,99. How would you show your understanding of the ABC process
-Application,100. Show me how you would check the brake lights are working on this car
-Analysis,1. Analyze safe and dangerous aspects of these features.
-Analysis,2. Analyze the characteristics of frogs.
-Analysis,3. Analyze the movements and sounds of a frog.
-Analysis,"4. Analyze the problem, identifying its variables."
-Analysis,5. Break down the components of a standard film camera and explain how they interact to make the machine work.
-Analysis,6. Break down the main actions of the story.
-Analysis,"7. By comparing the map of the tectonic plates to the earthquake map, what inferences can you make?"
-Analysis,8. Can you compare your . . . with that presented in . . .?
-Analysis,9. Can you distinguish between . . .?
-Analysis,10. Can you explain what must have happened when . . .?
-Analysis,11. Can you find four different feelings Pa Lia had during the story?
-Analysis,12. Compare and contrast animals that the class has made.
-Analysis,13. Compare and contrast our school to other communities.
-Analysis,"14. Compare and contrast preview questions, clarifying questions and anticipated exam questions, including how each relates to the notetaking process?"
-Analysis,15. Compare and contrast the waterfall model with the prototyping model.
-Analysis,16. Compare and contrast two characters in the book.
-Analysis,17. Compare fall and spring
-Analysis,18. Compare herbatious and carnivorous animals on a Venn diagram.
-Analysis,19. Compare how different children come to school.
-Analysis,20. Compare the place where the story happened with where you live.
-Analysis,21. Compare this book to the last book you read.
-Analysis,22. Compare three celebrations using a Venn diagram.
-Analysis,23. Compare two dog food commercials. What is the difference between them and how do they both sell their products?
-Analysis,24. Compare two of the characters in this book.
-Analysis,25. Conduct an investigation to produce information to support a view.
-Analysis,26. Contrast building in the coastal zone with building in a river floodplain.
-Analysis,27. Contrast Olympic athletes of today with athletes of past Olympic games.
-Analysis,28. Differentiate between .call by value and call by reference.
-Analysis,29. Differentiate printf function calls for displaying prompts and for echoing data.
-Analysis,30. Distinguish between micro and macro economics.
-Analysis,31. Distinguish facts from hypotheses
-Analysis,"32. Divide the story into initiating event, rising action, climax, and falling action"
-Analysis,"33. Examine what helps to make a good Olympics? Think about money, schedules, sports and people."
-Analysis,"34. Explain the term conjugal families, by making reference to the different types of societies to which they could belong."
-Analysis,35. analyze the positive and negative points presented concerning the abolition of guns and write a brief (2-3page) narrative of your analysis.
-Analysis,"36. Differentiate the passages that attacked a political opponent personally, and those that attacked an opponent's political programs."
-Analysis,37. How does your pet differ from other animals?
-Analysis,38. How does...compare/contrast with...?
-Analysis,39. How is . . . similar to . . .?
-Analysis,40. How was life different in your town 100 years ago?
-Analysis,41. How was this similar to . . .?
-Analysis,42. How would this story be different if it had happened in a different country?
-Analysis,43. How would you distinguish between polymyositis and viral myositis in a 42-year-old man with weakness and a rash?
-Analysis,"44. If your story happened in a foreign land, compare that land to the United States."
-Analysis,"45. If your story occurred long ago, compare that time with today in a good paragraph. If it was a modern story, compare it with a long time ago and tell what would be different."
-Analysis,46. Investigate innovations that can enhance future Olympics.
-Analysis,47. Make a diagnosis or analyze a case study.
-Analysis,48. Select the athlete of the century and analyze why you chose this person.
-Analysis,"49. If interest were compounded monthly instead of daily, what would the difference in interest be?"
-Analysis,50. What are the parts or features of...?
-Analysis,51. Distinguish between the following giving suitable examples
-Analysis,52. Distinguish between abstract date types (ADTs) and implementations of ADTs
-Analysis,"53.  How do you distinguish between the binge-eating/purging type of anorexia nervosa and bulimia nervosa, purging type"
-Analysis,54. How does Tdap differ from Td vaccine
-Analysis,55. How does autonomy differ with age
-Analysis,56. In what ways do female offenders differ from male offenders
-Analysis,57. in what ways trajectory patterns differ according to ABC
-Analysis,58. How do psychologists differ in their general attitudes toward third party presence
-Analysis,59. How did Chinese newspapers differ from US
-Analysis,60. How does public health reporting differ today from reporting two years before
-Analysis,61. How does an endorsement differ from a teaching certificate
-Analysis,62. How do we differentiate between genuine buyer and undercover buyer
-Analysis,63.  How do we differentiate between an interview and an interrogation?
-Analysis,64. Differentiate between the following terms along with appropriate examples
-Analysis,65. Differentiate the following functions using the quotient rule
-Analysis,66. Can you differentiate between ethnic Chinese and ethnic Koreans
-Analysis,67. How would you differentiate obstructive apneas from central apneas
-Analysis,68. How would you differentiate a project from a program
-Analysis,69. How is scientific progress similar to Darwinian evolution according to Kuhn
-Analysis,"70. in what ways is oxyperoxidase similar to other oxygenated heme proteins, and how does it differ"
-Analysis,71. In what ways are foxes similar to wolves and dogs
-Analysis,72.  How are the adolescents with ASD similar of different from each other in their sources of communication breakdowns ?
-Analysis,73. Examine the data in the EMPLOYEES and DEPARTMENTS tables
-Analysis,74.  Examine the differences between the model excluding the most influential observation and the model including all observations.
-Analysis,75. Critically examine the strengths and weaknesses of the positivist paradigm
-Analysis,76. Examine differences between the means of each individual switching factor.
-Analysis,77.  Examine carefully the given map extract on the following page to help you work out the exercise below.
-Analysis,"78.  Inspect each of these Boolean expressions, and determine whether each one is a sum of products, or a product of sums"
-Analysis,79.  Inspect the size of the loaded data: how many objects and variables does the iris data matrix contain?
-Analysis,80.  Can you distinguish for me between what is reasonably  achievable and what are  exaggerations
-Analysis,81. Can you distinguish aged rums from unaged rums by smell
-Analysis,82. Can you distinguish pot still rums from column still rums by taste
-Analysis,"83. Inspect the pattern of GPS positions relative to the ""known"" published value"
-Analysis,84. How does your agency inspect against its expectation for operators
-Analysis,85. How to inspect and maintain fresh water plumbing systems properly
-Analysis,86. Can you analyze the fractures and determine which should be repaired surgically
-Analysis,87. Can you please analyze modern contemporary culture and tell me how your work plays a significant part in the remains of our post-modernist culture ?
-Analysis,"88. How effectively did students analyze course content on race, class, and privilege through autobiographical reflection"
-Analysis,89. How do you analyze a marginally RCT
-Analysis,"90. Contrast the treatment of ""well known"" trademarks provided by Paris Article and by TRIPS Article"
-Analysis,91. Contrast the Valles Marineris on Mars with the Grand Canyon
-Analysis,92. How does Hawaii contrast and compare to Florida?
-Analysis,93. Investigate whether or not the system can be solved for x; y; z
-Analysis,94. Investigate (pointwise) convergence and absolute convergence of the given series of functions
-Analysis,95. How would you investigate this patient
-Analysis,96. How would you investigate this abnormality
-Analysis,97. What can I do to investigate this problem further
-Analysis,98. how the investigation was undertaken
-Analysis,99. How would you differentiate between heterodox and mainstream
-Analysis,"100. How do I differentiate between ""deceive"" and ""cheat on""?"
-Synthesis,1. Apply and integrate several different strategies to solve a mathematical problem (not according to one formula(
-Synthesis,2. Can you create new and unusual uses for . . .?
-Synthesis,3. Can you design a . . . to . . .?
-Synthesis,4. Can you develop a proposal which would . . .?
-Synthesis,5. Can you invent another character for the story?
-Synthesis,6. Can you see a possible solution to . . .?
-Synthesis,7. Can you write a new recipe for a tasty dish?
-Synthesis,8. Choose a character. Rewrite a scene from the story from this character's point of view.
-Synthesis,9. Combine any two sports to develop a new Olympic sport.
-Synthesis,"10. Combine elements of drama, music, and dance into a stage presentation."
-Synthesis,11. Compose a class story.
-Synthesis,12. Compose a dialogue between Atticus Finch and Tom Robinson when they first met.
-Synthesis,13. Compose a rhythm or put new words to a known melody.
-Synthesis,14. Compose a simple rap or rhyme about zoo animals.
-Synthesis,15. Compose music for a frog play.
-Synthesis,16. Compose a complete C program that reads text strings from a text file into a suitable data
-Synthesis,17. Compose a device that would assist an athlete in their training.
-Synthesis,18. Compose an original work which incorporates five common materials in sculpture.
-Synthesis,19. Compose your own note-taking design that incorporates all theadvantages of the Cornell Method.
-Synthesis,20. Create a chart that compares things that use electricity and things that do NOT use electricity.
-Synthesis,21. Create a new product. Give it a name and plan a marketing campaign.
-Synthesis,"22. Create a new song for the opening line of ""Mary had a little lamb""."
-Synthesis,23. Create a set of guidelines to determine the points of a plant susceptible to localized corrosion.
-Synthesis,24. Create a storyboard for a sequel to your book. Use the same characters.
-Synthesis,25. Create an equation to represent the solution to this problem.
-Synthesis,26. Create and perform a play about frogs.
-Synthesis,27. Create plan of local environment by drawing around boxes.
-Synthesis,28. Design a building according to given specifications
-Synthesis,29. design a cost effective strategy to generate reliable data.
-Synthesis,30. Design a machine to perform a specific task.
-Synthesis,31. Design a new animal to live in the jungle.
-Synthesis,32. Design a poster for this book.
-Synthesis,33. Design a testing scenario to assess the susceptibility of an alloy to be used in a given environment?
-Synthesis,34. Design and make an animal that moves.
-Synthesis,35. Design costumes for the characters.
-Synthesis,36. Design the architecture of the software system based on the requirements defined in the Software Requirement Specification document
-Synthesis,37. Develop a hypothesis.
-Synthesis,38. Develop a plan for a new Olympic Bid System.
-Synthesis,39. Develop a SQA Plan for a software development project which is defined in the attached document.
-Synthesis,"40. Develop a way to teach the concept of ""adjectives""."
-Synthesis,41. Develop one plausible ending for all three short stories below.
-Synthesis,42. Devise a new economic system based on the ones that already exist.
-Synthesis,43. Devise plans to market or make artwork more valuable.
-Synthesis,44. Draw a painting that uses various principles of perspective to achieve its effect.
-Synthesis,"45. Explain how the biological concept of symbiotic relationships could be used to help solve socially created problems like water pollution, overflowing garbage landfills, or homelessness."
-Synthesis,46. Explain why it is likely that a matriarchal family system would be found in a matrilocal or matrilineal society.
-Synthesis,"47. Following the identification of the forms of corrosion that were involved in a failure, recommend a solution to avoid this failure?"
-Synthesis,48. Given two opposing theories design an experiment to compare them.
-Synthesis,49. How could we determine the number of pennies in a jar without counting them?
-Synthesis,50. How could you re-write this story with a city setting?
-Synthesis,"51. how do the clauses and expressions given in the article which replace GOTO statements, lead to the three traditional control statements"
-Synthesis,52. How many ways can you . . .?
-Synthesis,53. How would the U.S.A. be different if the South had won the Civil War?
-Synthesis,54. How would you change the story to create a different ending?
-Synthesis,55. How would you create/design a new...?
-Synthesis,56. How would you restructure the school day to reflect children's developmental needs?
-Synthesis,57. Identify one problem in the book and give an alternate solution one not given by the author.
-Synthesis,58. If you had access to all resources how would you deal with . . .?
-Synthesis,59. Integrate training from several sources to solve a problem.
-Synthesis,60. Invent a machine to do a specific task.
-Synthesis,61. Justify your choice of data structure.
-Synthesis,62. Make a radio announcement that advertise the book. Write it out.
-Synthesis,63. Make up a new language code and write material using it.
-Synthesis,64. Name one character. Rewrite the story from this character's point of view.
-Synthesis,65. Organize this book into three or more sections and give your own subtitle for each section.
-Synthesis,66. Plan a research paper on a given historical topic
-Synthesis,67. Predict the differences of a planet with no seasonal changes.
-Synthesis,68. Prepare a book jacket that illustrates the kind of book as well as the story.
-Synthesis,69. Pretend you are a librarian recommending this book to someone. Write a paragraph telling what  you would say.
-Synthesis,70. Revise and process to improve the outcome.
-Synthesis,71. Revise how to complete a complex task in order to improve the outcome.
-Synthesis,72. Revises and process to improve the outcome.
-Synthesis,"73. structure, sorts the list in ascending order, displays the list on the screen and stores the list"
-Synthesis,74. Suppose Phillip wasn't rescued shortly after Timothy's death. How long could he have survived?
-Synthesis,"75. Using information from the book about one of the main characters, rewrite the ending of the book."
-Synthesis,76. What ideas can you add to...?
-Synthesis,77. What might happen if you combined...?
-Synthesis,78. What solutions would you suggest for...?
-Synthesis,79. What would happen if . . .?
-Synthesis,80. What would you predict/infer from...?
-Synthesis,81. Why don't you devise your own way to deal with . . .?
-Synthesis,82. Why not compose a song about . . .?
-Synthesis,"83. Write a C program that accepts integer inputs from the screen, computes the total and average values; and displays the values on the screen."
-Synthesis,84. Write a letter to the editor on a social issue of concern to you.
-Synthesis,85. Write a logically organized argument in favor of a given position.
-Synthesis,86. Write a poem about this book.
-Synthesis,87. Write a set of rules to prevent what happened in the story.
-Synthesis,88. Write a short story relating a personal experience in the style of a picaresque novel.
-Synthesis,89. Write a song about 'Old MacDonald' who had a bulldozer instead of a farm.
-Synthesis,90. Write an essay in not more than 250 words about India and Technological Advancement. Use active voice as much as possible.
-Synthesis,91. How do you combine the results of various individual tests to determine whether a student can progress to a next semester / phase / year?
-Synthesis,92.  How can we combine and abstract facts about a software system to create new knowledge?
-Synthesis,93. How to combine virtual symmetry and symbolic model checking effectively
-Synthesis,94. How do we efficiently combine multiple subject graphs to construct an aig with choice
-Synthesis,95. how do we devise a way to enforce the laws
-Synthesis,96. can you devise an explicit formula for
-Synthesis,97. Do you devise a systematic approach in order to get larger progressions
-Synthesis,98. Develop and execute a program for this exercise
-Synthesis,99.  Develop a network based on the following information: Activity Immediate predecessors
-Synthesis,100. How could we develop a coherent measure of success for organisations engaged in this type of activity with young people?
-Evaluation,"1. After designing an experiment, examining the results, and drawing conclusions, determines in what ways the experiment could be conducted more effectively in order to draw more productive conclusions in the future."
-Evaluation,"2. After examining the videotape of a play in a football game, determine the degree to which the defensive team performed effectively and"
-Evaluation,"3. After solving a problem, determine the degree to which the problem was solved as efficiently as possible"
-Evaluation,4. Appraise data in support of a hypothesis.
-Evaluation,5. Appraise the speech's effectiveness based upon the class' criteria.
-Evaluation,6. Are there students who should not use the Cornell method?
-Evaluation,7. Are you a . . . person?
-Evaluation,8. Assess the appropriateness of an author's conclusions based on the evidence given.
-Evaluation,9. Assess the importance of understanding seasonal patters.
-Evaluation,10. Assess the relative effectiveness of different graphical representations of the same data or biological concept.
-Evaluation,11. Assess the strengths and weaknesses of the current Olympics and recommend action that should be taken in future Olympics: What can be
-Evaluation,"12. Award the contract to the best proposal. Rank the principles of ""good sportsmanship"" in order of importance to you."
-Evaluation,13. Can you defend the idea that Simon's incident with the pig's head is the most mystical in the story?
-Evaluation,14. Can you defend your position about . . .?
-Evaluation,15. Choose a paint schedule for the maintenance of an outdoor structure? (level 2)
-Evaluation,16. Choose and illustrate the two most important events in the story.
-Evaluation,17. Conclude and support which economic system leads to a higher standard of living.
-Evaluation,18. Construct a poster that will advertise your new food product in an exciting and irresistible way.
-Evaluation,19. Critique an experimental design or a research proposal.
-Evaluation,"20. Critique the other student's (or your own) speech, based on the criteria we have studied this semester."
-Evaluation,21. Decide whether you are in favor of building on a floodplain; defend your position in a debate.
-Evaluation,22. Decide whether you could have survived on the island blind and alone. Write about things that would have been challenging making sure to
-Evaluation,23. Decide whether you learned enough about electricity from this book.
-Evaluation,24. Decide which candidate would best fill the position of principal.
-Evaluation,25. Decide which course of action was most effective
-Evaluation,26. Decide which method of solving a problem was most effective
-Evaluation,27. Defend the following claim: The Cornell method works so well that it could turn even a poor lecture into a valuable learning experience.
-Evaluation,28. Defend your use of a specific strategy in solving the problem.
-Evaluation,29. Describe the economic consequence of a neolocal society. Support your description with information you have learned from this course.
-Evaluation,30. Design a healthy menu that you think most people would enjoy using the healthy eating guide.
-Evaluation,31. Determine if a character's actions were heroic
-Evaluation,32. Do you agree...?
-Evaluation,33. Do you think . . . is a good or a bad thing?
-Evaluation,34. Establish criteria for making this choice and defend your final selection.
-Evaluation,"35. Evaluate a work of art, giving the reasons for your evaluation."
-Evaluation,36. Evaluate appropriate and inappropriate actions of characters.
-Evaluation,37. Evaluate board games and justify why rules are important.
-Evaluation,38. Evaluate the corrosion monitoring needs of a chemical processing plant
-Evaluation,39. Evaluate the level of galvanic coupling between two metals using basic kinetic information? (level 4)
-Evaluation,40. Evaluate two Internet sources of information about the Egyptians. Which would be a better choice for your purpose and why?
-Evaluation,41. Evaluate whether their model is a true representation of the local environment.
-Evaluation,42. Evaluate your own or a peer's essay in terms of the principles of composition discussed during the semester.
-Evaluation,43. Examine the stated positions of both major political candidates with regard to a particular issue and state good reasons (based on principles discussed in class) for why one candidates position is more likely to be effective than the other's.
-Evaluation,44. Explain and justify a new budget.
-Evaluation,45. Explain choices made in making recommendations to an end user.
-Evaluation,"46. Given an argument on any position, enumerate the logical fallacies in that argument."
-Evaluation,"47. Given the data available on a research question, take a position and defend it."
-Evaluation,"48. Given the data we've looked at on this topic, evaluate how appropriate this conclusion is and defend your answer."
-Evaluation,"49. Given the two solutions to the stated programming problem, rate the solutions in  terms of efficiency and readability."
-Evaluation,"50. Given three possible approaches to implement the defined system, discuss the possible advantages and disadvantages of each approach."
-Evaluation,"51. Given two possible solutions, A and B, to solving the given software development problem, decide on the best solution. Give your justification."
-Evaluation,52. How effective are . . .?
-Evaluation,53. How would you decide about...?
-Evaluation,54. How would you feel if . . .?
-Evaluation,55. How would you have handled . . .?
-Evaluation,"56. improved, reformed or rejected?"
-Evaluation,"57. In a given clinical situation, select the most reasonable intervention and predict the main effects and possible side effects."
-Evaluation,58. Is there a better solution to . . .?
-Evaluation,59. Judge aesthetic qualities and relationship to future values.
-Evaluation,60. judge the difficulty level for yourself.
-Evaluation,61. Judge the value of . . .?
-Evaluation,62. Judge whether it would be possible to survive on an island alone and blinded. Write about it.
-Evaluation,63. Judge whether Olympic Ideals are realistic or unrealistic for the contemporary elite athlete.
-Evaluation,64. Justify and nominate ways to prevent animal extinction.
-Evaluation,65. Justify the title To Kill a Mockingbird .
-Evaluation,66. Listen to two classmates conversing on tape and critique their performance on the basis of the skills covered this semester.
-Evaluation,67. Place the following in order of priority...
-Evaluation,68. Predict what will happen next in.
-Evaluation,69. Predict whether Phillip will ever go back to visit the Cay after several years of recovery. Assuming he gets his sight back.
-Evaluation,70. Recommend how our classroom or playground could be improved.
-Evaluation,71. Select the best proposal for a proposed water treatment plant.
-Evaluation,72. Select the most effective solution.
-Evaluation,73. suggest ways in which it could have responded more effectively
-Evaluation,74. decide about the most exciting part of the book. being sure to give at least three reasons why?
-Evaluation,75. Use a judge and jury to discuss the statement 'Children enjoy Anthony Browne's books because of the illustrations'.
-Evaluation,"76. Using straight value depreciation, decide between two copper-nickel alloys for the design of a heat exchanger."
-Evaluation,"77. Using the basic principles of socialism discussed in this course, evaluate the US economic system by providing key arguments to support your judgment."
-Evaluation,78. Was Hemingway a great American writer? First you will need to define greatness.
-Evaluation,79. What changes to . . . would you recommend?
-Evaluation,80. What criteria would you use to assess the validity of a business contract?
-Evaluation,81. What criteria would you use to assess...?
-Evaluation,82. What do you think about . . .?
-Evaluation,83. What is part of this book did you like best. Tell why you like it?
-Evaluation,84. What is the most important...?
-Evaluation,85. Which of the following actions would probably be least effective in determining the answer?
-Evaluation,"86. Which of the two algorithms, bubblesort or quicksort, is more efficient? Justify your answer."
-Evaluation,87. Would you have liked to have had Cinderella for a sister? Explain why or why not.
-Evaluation,88. Write a list of criteria to judge the Willy raps.
-Evaluation,89. Revise the story and specify the type of audience that would enjoy this book.
-Evaluation,90.  Estimate the epicentral coordinates of the earth-quake
-Evaluation,91.  Estimate the risk of serious illness for consumers in different susceptible population groups
-Evaluation,92. Estimate expenditure on HIV/AIDS education
-Evaluation,93. Estimate the difficulty of the question
-Evaluation,94. Estimate roughly how long the collision process takes
-Evaluation,95. What do you think is the best thing about coming to Viestal?
-Evaluation,96. What do you think is the mass and why
-Evaluation,97. What do you think are the strengths of using integrated math in your program?
-Evaluation,98. Do you think that this statement conveys the idea that i am trying to portray
-Evaluation,99. How do you think the community should grow or change
 Evaluation,100. How Do You Think One Should Reason in Making Ethical Decisions in Business
+Synthesis,65. Organize this book into three or more sections and give your own subtitle for each section.
+Application,"33. If notes are available on the professor's website, how should those notes be used?"
+Application,44. Relate topographic map to field features
+Application,9. Calculate the number of sacrificial anodes that would be required to form a calcareous deposit on a steel pile immersed in seawater.
+Application,10. Write an explanation about this topic for others
+Comprehension,75. Summarize Jem's beliefs about Boo Radley
+Synthesis,31. Design a new animal to live in the jungle.
+Evaluation,43. Examine the stated positions of both major political candidates with regard to a particular issue and state good reasons (based on principles discussed in class) for why one candidates position is more likely to be effective than the other's.
+Comprehension,"97. In your own words, how would you summarize the story up"
+Comprehension,99. Outline the aim of two studies within the
+Application,52. Can you solve the following problem
+Evaluation,11. Justify the object oriented programming concept
+Analysis,"88. How effectively did students analyze course content on race, class, and privilege through autobiographical reflection"
+Synthesis,81. Why don't you devise your own way to deal with . . .?
+Analysis,"49. If interest were compounded monthly instead of daily, what would the difference in interest be?"
+Analysis,26. Contrast building in the coastal zone with building in a river floodplain.
+Analysis,18. What has the author used to create this effect
+Evaluation,25. Decide which course of action was most effective
+Knowledge,89. when was the first airport in the yemen built
+Synthesis,61. Justify your choice of data structure.
+Comprehension,63. Rewrite the principles of test writing.
+Analysis,95. How would you investigate this patient
+Analysis,59. How did Chinese newspapers differ from US
+Synthesis,72. Revises and process to improve the outcome.
+Synthesis,"45. Explain how the biological concept of symbiotic relationships could be used to help solve socially created problems like water pollution, overflowing garbage landfills, or homelessness."
+Knowledge,2. Correctly label the brain lobes indicated on the diagram below
+Comprehension,58. Classify celebrations into family and community categories.
+Comprehension,2. Compare historical events to contemporary situations
+Evaluation,41. Evaluate whether their model is a true representation of the local environment.
+Knowledge,20. Name three 19th-century women English authors.
+Evaluation,44. Explain and justify a new budget.
+Application,10. Calculate the rate of habitat fragmentation within the Colorado Front Range in the last decade.
+Evaluation,21. Decide whether you are in favor of building on a floodplain; defend your position in a debate.
+Application,81. What would result if ...
+Knowledge,17. Memorize and recall the periodic table
+Knowledge,59. recall the supply voltage constraints
+Synthesis,"15. Rewrite the story briefly, but change someone or something in it. (For example, substitute a dog for a wolf in The Three Little Pigs)."
+Synthesis,32. Design a poster for this book.
+Knowledge,18. How much did he pay for his car
+Synthesis,"83. Write a C program that accepts integer inputs from the screen, computes the total and average values; and displays the values on the screen."
+Evaluation,33. Do you think . . . is a good or a bad thing?
+Evaluation,16. Choose and illustrate the two most important events in the story.
+Synthesis,11. Compose a class story.
+Analysis,4. Analyze the following questionnaire.
+Analysis,42. How would this story be different if it had happened in a different country?
+Evaluation,"51. Given two possible solutions, A and B, to solving the given software development problem, decide on the best solution. Give your justification."
+Comprehension,10. Describe in your own words what is meant by a sprained ankle.
+Analysis,46. Investigate innovations that can enhance future Olympics.
+Knowledge,24. Recall four facts from the story
+Synthesis,"73. structure, sorts the list in ascending order, displays the list on the screen and stores the list"
+Knowledge,21. Name all the characters in the story.
+Application,85. Construct a dictionary and a truth table to determine if the following statements are logically equivalent
+Analysis,"32. Divide the story into initiating event, rising action, climax, and falling action"
+Evaluation,82. What do you think about . . .?
+Analysis,28. Differentiate between .call by value and call by reference.
+Knowledge,24. Identify fractions from a pictorial representation
+Synthesis,"22. Create a new song for the opening line of ""Mary had a little lamb""."
+Application,6. How does the law of supply and demand explain the current increase in the price of fruit?
+Application,53. How to specify the impact energy and impact test temperature of the material in the Code
+Comprehension,96. Explain the whole method of crushing
+Comprehension,16. Describe the major clinical differences between visceral and somatic pain
+Evaluation,79. What changes to . . . would you recommend?
+Application,74. Use tableau methods to prove that the following tableau is valid.
+Knowledge,86. when did the first saudi radio station open
+Synthesis,2. Can you create new and unusual uses for . . .?
+Knowledge,78. What does ICT stands for.
+Knowledge,64. State four attributes of well engineered software.
+Comprehension,7. Explain how the heart is like a pump.
+Knowledge,19. Memorize the meaning of ...
+Knowledge,9. Name the authors of...?
+Synthesis,15. Compose music for a frog play.
+Evaluation,4. Appraise data in support of a hypothesis.
+Analysis,62. How do we differentiate between genuine buyer and undercover buyer
+Comprehension,94. Express the following systems in matrix form
+Synthesis,19. Compose your own note-taking design that incorporates all theadvantages of the Cornell Method.
+Comprehension,72. State in your own words what the author means when he says
+Evaluation,45. Explain choices made in making recommendations to an end user.
+Application,29. Draw a picture of the gown Cinderella wore to the ball.
+Evaluation,90.  Estimate the epicentral coordinates of the earth-quake
+Analysis,2. Analyze the characteristics of frogs.
+Knowledge,37. List four types of clauses mentioned in the article
+Application,73.   Use the unification algorithm to determine whether the following two terms are uni_able. Show intermediate step
+Analysis,75. Critically examine the strengths and weaknesses of the positivist paradigm
+Evaluation,13. Prepare a list of criteria to judge ... Evaluate expressions
+Application,55. Specify the thickness of a galvanized coating based on atmospheric data? (level 2)
+Evaluation,84. What is the most important...?
+Analysis,94. Investigate (pointwise) convergence and absolute convergence of the given series of functions
+Comprehension,4. Describe how interest rates affect the economy
+Knowledge,62. Recite the principles of the Data Protection Act.
+Application,37. Make a scrapbook about the areas of study.
+Evaluation,9. Judge the validity of arguments for and against astrology
+Evaluation,88. Write a list of criteria to judge the Willy raps.
+Synthesis,94. How do we efficiently combine multiple subject graphs to construct an aig with choice
+Evaluation,65. Justify the title To Kill a Mockingbird .
+Evaluation,71. Select the best proposal for a proposed water treatment plant.
+Synthesis,23. Write another ending to the story that is different from the author's ending.
+Evaluation,80. What criteria would you use to assess the validity of a business contract?
+Analysis,80.  Can you distinguish for me between what is reasonably  achievable and what are  exaggerations
+Knowledge,60. Recite a policy of immigration in Europe .
+Analysis,35. analyze the positive and negative points presented concerning the abolition of guns and write a brief (2-3page) narrative of your analysis.
+Knowledge,12. How many instructions in the instruction set of RISC computer?
+Analysis,91. Contrast the Valles Marineris on Mars with the Grand Canyon
+Comprehension,69. State in your own words the rule for balls and strikes in baseball.
+Application,3. Apply the rule of law to a new situation
+Analysis,71. In what ways are foxes similar to wolves and dogs
+Application,"27. Draw 3 pictures showing the beginning, middle and ending of the story."
+Comprehension,28. Explain the communicative property.
+Evaluation,"12. Award the contract to the best proposal. Rank the principles of ""good sportsmanship"" in order of importance to you."
+Synthesis,13. Propose a set of alternatives for reducing dependence on fossil fuels that address both economic and environmental concerns.
+Synthesis,96. can you devise an explicit formula for
+Comprehension,65. Rewrite the markov matrix to account for this slight change.
+Knowledge,9. Draw the basic outline of a page of notes using the Cornell Method?
+Evaluation,87. Would you have liked to have had Cinderella for a sister? Explain why or why not.
+Analysis,74.  Examine the differences between the model excluding the most influential observation and the model including all observations.
+Application,42. Pretend you are one of the characters in the book. Write a diary about the happenings in your life for two consecutive days.
+Synthesis,"9. Design a record, book or magazine cover for..."
+Comprehension,"82. In your own words, tell what is meant by the definition of an isosceles triangle."
+Analysis,16. What is the analysis of ______________?
+Synthesis,42. Devise a new economic system based on the ones that already exist.
+Synthesis,64. Name one character. Rewrite the story from this character's point of view.
+Synthesis,10. Design a new monetary system or an experiment for establishing.
+Knowledge,99. who was the first to compose in the arts of makamat
+Knowledge,3. Label the parts of the diagram
+Synthesis,24. Create a storyboard for a sequel to your book. Use the same characters.
+Application,60. Use a manual to calculate an employee's vacation time.
+Evaluation,"50. Given three possible approaches to implement the defined system, discuss the possible advantages and disadvantages of each approach."
+Application,87.  Construct a family of networks to demonstrate that the number of different mincuts in a network can be exponential in the size of the network
+Application,39. Model an Olympic Village for the new Millenium.
+Knowledge,71. State the rule for balls and strikes in baseball.
+Analysis,"36. Differentiate the passages that attacked a political opponent personally, and those that attacked an opponent's political programs."
+Analysis,77.  Examine carefully the given map extract on the following page to help you work out the exercise below.
+Synthesis,53. How would the U.S.A. be different if the South had won the Civil War?
+Knowledge,"23. Identify a property (commutative, additive, etc("
+Knowledge,15. List important information you can remember from lesson....
+Knowledge,74. What are the major products and exports of countries
+Analysis,52. Distinguish between abstract date types (ADTs) and implementations of ADTs
+Evaluation,34. Establish criteria for making this choice and defend your final selection.
+Comprehension,8. Describe in your own words how to copy text from one program into another.
+Synthesis,36. Design the architecture of the software system based on the requirements defined in the Software Requirement Specification document
+Application,36. Make a paper-mache map to include relevant information about an event.
+Application,3. Sketch a diagram which shows these fractions or take photographs of the fractions.
+Synthesis,63. Make up a new language code and write material using it.
+Analysis,1. Analyze safe and dangerous aspects of these features.
+Application,13. Categorise the pictures and add them to the wall display.
+Comprehension,100.  Outline your experience in working with service users
+Comprehension,"83. In your own words, how would you define transferable skills"
+Synthesis,84. Write a letter to the editor on a social issue of concern to you.
+Synthesis,13. Compose a rhythm or put new words to a known melody.
+Comprehension,5. Explain what is happening in the first picture of the story.
+Synthesis,28. Design a building according to given specifications
+Evaluation,24. What criticisms could you make ?
+Knowledge,10. Draw the block diagram of the central processing unit
+Evaluation,18. What criteria would you use to evaluate if your answer is correct?
+Synthesis,"10. Combine elements of drama, music, and dance into a stage presentation."
+Comprehension,61. Restate the Olympic motto in your own words.
+Evaluation,5. Appraise the speech's effectiveness based upon the class' criteria.
+Evaluation,"35. Evaluate a work of art, giving the reasons for your evaluation."
+Knowledge,54. Recall basic math facts
+Application,76. Use Gauss' Law to find the electric field between the plates when the charge on them is Q
+Analysis,22. Compare three celebrations using a Venn diagram.
+Analysis,13. Compare and contrast our school to other communities.
+Evaluation,27. Defend the following claim: The Cornell method works so well that it could turn even a poor lecture into a valuable learning experience.
+Comprehension,"90.  Briefly compare this way of testing the satisfiability of to the more standard way using SLD Resolution, as in Prolog"
+Analysis,57. in what ways trajectory patterns differ according to ABC
+Comprehension,31. Explain the process (paraphrase) for finding the perimeter of a rectangular garden
+Analysis,40. How was life different in your town 100 years ago?
+Application,88.  How do you construct foliations on a given manifold M?
+Analysis,12. Compare and contrast animals that the class has made.
+Knowledge,51. Name the main characters in the story.
+Knowledge,20. How much time did he took to build a house
+Evaluation,40. Evaluate two Internet sources of information about the Egyptians. Which would be a better choice for your purpose and why?
+Evaluation,22. How would you rank the items given the criteria ?
+Analysis,6. Break down the main actions of the story.
+Application,35. Make a diorama to illustrate an important event.
+Comprehension,"46. Outline an ""attack plan"" that will allow you to test your hypothesis using computational molecular modeling tools"
+Comprehension,21. Put in your own words...
+Knowledge,41. List the procedure to draw a mixed potential or Evans' diagram
+Comprehension,6. Describe in prose what is shown in graph form.
+Analysis,50. What are the parts or features of...?
+Evaluation,15. Choose a paint schedule for the maintenance of an outdoor structure? (level 2)
+Application,72.  Use the second-derivative test to determine whether critical points where f0(x) = 0 yield relative maxima or relative minima
+Analysis,"100. How do I differentiate between ""deceive"" and ""cheat on""?"
+Synthesis,21. Write a poem about the story.
+Knowledge,96. Who is the first president   of USA
+Application,45. Relate your most powerful story where your use of technology in the classroom has yielded a significant outcome with a student or students
+Knowledge,85. when did saudi arabia start using internet
+Application,65. Who can use what we know about sonnets and finish this poem?
+Evaluation,11. Assess the strengths and weaknesses of the current Olympics and recommend action that should be taken in future Olympics: What can be
+Comprehension,95. Express the following percentages as fractions in simplest form
+Synthesis,43. Devise plans to market or make artwork more valuable.
+Evaluation,"47. Given the data available on a research question, take a position and defend it."
+Knowledge,55. Recall locations of a historical events
+Analysis,37. How does your pet differ from other animals?
+Synthesis,49. How could we determine the number of pennies in a jar without counting them?
+Analysis,"45. If your story occurred long ago, compare that time with today in a good paragraph. If it was a modern story, compare it with a long time ago and tell what would be different."
+Comprehension,34. Express your opinion of 'Drugs in Sport' through poetry.
+Comprehension,85. Translate an equation into a computer spreadsheet.
+Analysis,96. How would you investigate this abnormality
+Synthesis,19. Write about your feelings in relation to...
+Comprehension,13. Describe what goes in each of the four areas on the first page of notes
+Evaluation,19. What would you cite to defend the actions . . . ?
+Comprehension,14. How would you classify the type of ...?
+Analysis,"53.  How do you distinguish between the binge-eating/purging type of anorexia nervosa and bulimia nervosa, purging type"
+Application,4. Apply the storytelling technique here to a little story of your own.
+Synthesis,87. Write a set of rules to prevent what happened in the story.
+Synthesis,22. Write 5 new titles for the story that would give a good idea of what it was about
+Comprehension,52. Classify types of corrosion inhibitors
+Analysis,"4. Analyze the problem, identifying its variables."
+Application,71. How do teenagers use code in emails and instant messages?
+Evaluation,58. Is there a better solution to . . .?
+Comprehension,23. Explain in one's own words how to create a query in a database.
+Knowledge,80. What is a global variable?
+Analysis,"11. Analyze a work of art in terms of form, color and texture."
+Analysis,81. Can you distinguish aged rums from unaged rums by smell
+Knowledge,77. What are the units of corrosion penetration rates? Relate these to Faraday's law
+Synthesis,18. Write a journal from the point of view of mountaineer.
+Knowledge,63. Recite the the Gaussian law
+Comprehension,21. Discuss the nature of socialism.
+Knowledge,53. Please label the diagram below:
+Comprehension,19. State in your own words ...
+Knowledge,6. Define Method in JAVA.
+Comprehension,86. Translate an equation into a spreadsheet formula.
+Comprehension,11. How would you explain...?
+Knowledge,67. State the definition of application in Bloom's Taxonomy.
+Synthesis,6. Can you see a possible solution to . . .?
+Synthesis,50. How could you re-write this story with a city setting?
+Synthesis,26. Create and perform a play about frogs.
+Knowledge,70. State the pattern for expressing time in French.
+Evaluation,70. Recommend how our classroom or playground could be improved.
+Analysis,24. Compare two of the characters in this book.
+Comprehension,27. Explain the causes of historical events
+Evaluation,"57. In a given clinical situation, select the most reasonable intervention and predict the main effects and possible side effects."
+Knowledge,28. Identify the part of a eukaryotic cell.
+Analysis,"44. If your story happened in a foreign land, compare that land to the United States."
+Knowledge,16. How many years does this animal live?
+Synthesis,56. How would you restructure the school day to reflect children's developmental needs?
+Evaluation,"3. After solving a problem, determine the degree to which the problem was solved as efficiently as possible"
+Knowledge,5. Define morphology
+Synthesis,39. Develop a SQA Plan for a software development project which is defined in the attached document.
+Synthesis,52. How many ways can you . . .?
+Evaluation,60. judge the difficulty level for yourself.
+Application,96. Show how they have used creative writing strategies appropriate to the format
+Synthesis,68. Prepare a book jacket that illustrates the kind of book as well as the story.
+Evaluation,31. Determine if a character's actions were heroic
+Application,99. How would you show your understanding of the ABC process
+Evaluation,8. Assess the appropriateness of an author's conclusions based on the evidence given.
+Knowledge,35. Label the parts of the following insects: Grasshopper
+Application,70.  sketch a graph of velocity versus time for the upward and downward parts of a ball's flight
+Synthesis,27. Create an advertising campaign
+Application,14. Choose a country that does not compete at the Olympics and explain why that country is not an Olympic member.
+Application,"30. From the information given, can you develop a set of instructions about . . .?"
+Analysis,3. Analyze the movements and sounds of a frog.
+Application,8. Calculate the deflection of a beam under uniform loading.
+Knowledge,26. What is the definition of the following terms...
+Synthesis,30. Merge the different ideas into a single solution.
+Analysis,3. Discriminate the pros and cons of ____.
+Synthesis,98. Develop and execute a program for this exercise
+Synthesis,14. Rewrite the story from an animal's point of view.
+Analysis,9. Can you distinguish between . . .?
+Analysis,7. How can you differentiate between...?
+Analysis,54. How does Tdap differ from Td vaccine
+Analysis,69. How is scientific progress similar to Darwinian evolution according to Kuhn
+Knowledge,56. Recall the definition of the formula datatype from your assignment 2.
+Comprehension,76. Summarize the basic tenets of collaborative conservation.
+Application,1. Apply laws of statistics to evaluate the reliability of a written test.
+Analysis,15. What is the relationship between probability and statistical analysis?
+Analysis,18. Compare herbatious and carnivorous animals on a Venn diagram.
+Knowledge,93. Which of the two liquids is hypotonic
+Knowledge,68. State the formula for the area of a circle
+Evaluation,1. Can you defend your position about ... ?
+Application,12. Can you group by characteristics such as . . .?
+Knowledge,57. Recall the equation for the Ideal Gas Law.
+Analysis,66. Can you differentiate between ethnic Chinese and ethnic Koreans
+Synthesis,11. Create several scientific hypotheses to ...
+Synthesis,71. Revise how to complete a complex task in order to improve the outcome.
+Evaluation,99. How do you think the community should grow or change
+Analysis,65. Differentiate the following functions using the quotient rule
+Analysis,15. Compare and contrast the waterfall model with the prototyping model.
+Comprehension,12. Describe the Pareto Principle in statistical software quality assurance.
+Analysis,82. Can you distinguish pot still rums from column still rums by taste
+Comprehension,22. Explain how Timothy saved Phillip's life.
+Application,93. Construct the Data Path of the RISC Processor given in the previous question
+Synthesis,14. Compose a simple rap or rhyme about zoo animals.
+Evaluation,85. Which of the following actions would probably be least effective in determining the answer?
+Comprehension,35. From a blueprint to describe the article depicted.
+Comprehension,62. Retell the story in your words.
+Comprehension,91.  How would you compare SAS with the Visual Basic Application and SPSS for the processing and analysis of mainframe data
+Synthesis,78. What solutions would you suggest for...?
+Comprehension,8. Explain what is happening...
+Synthesis,82. Why not compose a song about . . .?
+Knowledge,79. What is  your family name
+Synthesis,"40. Develop a way to teach the concept of ""adjectives""."
+Application,28. Draw a picture of the bears' house.
+Analysis,21. What evidence can you find to suggest that people should be regarded as the most important resource of an organisation?
+Comprehension,59. Classify frogs toads and other amphibians.
+Application,"47. Show, through role-play, the final scene in the novel."
+Analysis,27. Contrast Olympic athletes of today with athletes of past Olympic games.
+Comprehension,18. Identify three mistakes from the passage and correct them.
+Evaluation,10. Justify the concept of inheritance and give the sample of code to illustrate your answer.
+Application,57. Specify a deterministic finite automaton (DFA) recognizing the
+Synthesis,"20. Write a TV show play, puppet show, role play, song or pantomime about.."
+Comprehension,"38. Illustrate this caption: ""Olympic as a Media Event in the Information Society"""
+Synthesis,90. Write an essay in not more than 250 words about India and Technological Advancement. Use active voice as much as possible.
+Knowledge,26. Identify the correct definition of osmosis.
+Analysis,31. Distinguish facts from hypotheses
+Application,41. Predict what happens to X if Y increases.
+Analysis,97. What can I do to investigate this problem further
+Knowledge,94. which part of a data packet is used by a router to determine the destination network
+Application,79. What happens if you change the direction of the displacement (but not its size)?
+Comprehension,74. Summarize a story in own words.
+Application,59. Use a costing model to compute prices on goods to maximise profits and minimise costs.
+Synthesis,85. Write a logically organized argument in favor of a given position.
+Evaluation,81. What criteria would you use to assess...?
+Synthesis,29. Devise a different way of using X
+Synthesis,21. Create a new product. Give it a name and plan a marketing campaign.
+Evaluation,98. Do you think that this statement conveys the idea that i am trying to portray
+Evaluation,"23. Your advice has been sought to settle the following dispute in Company X. Referring to appropriate legal principles, write a short report advising the company on the best course of action to adopt."
+Application,23. Derive a kinetic model from experimental data.
+Application,68. Sketch the blackbody curves for radiation emitted from the Sun and the Earth
+Knowledge,18. Memorize the multiplication facts
+Evaluation,29. Describe the economic consequence of a neolocal society. Support your description with information you have learned from this course.
+Comprehension,40. In one sentence explain the main idea of a written passage.
+Application,77.  What happens if you restrict a determinental process to a subset R  S?
+Analysis,19. Compare and contrast the two items and produce a summary of their similarities and differences
+Evaluation,20. Outline how class ArrayList could be implemented using an array
+Knowledge,"2. Explain briefly the meaning of the following terms: Demography, Consumer sales promotion , and Media mix"
+Comprehension,48. Paraphrase what Hamlet is saying in his soliloquy.
+Synthesis,33. Design a testing scenario to assess the susceptibility of an alloy to be used in a given environment?
+Synthesis,29. design a cost effective strategy to generate reliable data.
+Knowledge,31. in which continent does the state of suriname fall
+Analysis,67. How would you differentiate obstructive apneas from central apneas
+Comprehension,24. Explain in your own words what a recessive gene is.
+Knowledge,43. List three characteristics that are unique to the Cubist movement.
+Analysis,48. Select the athlete of the century and analyze why you chose this person.
+Synthesis,59. Integrate training from several sources to solve a problem.
+Knowledge,97. who is the founder of the kingdom of saudi Arabia
+Evaluation,96. What do you think is the mass and why
+Evaluation,6. How would you justify . . . ?
+Evaluation,32. Do you agree...?
+Synthesis,34. Design and make an animal that moves.
+Analysis,13. Trace the value of alpha after the following code executes. int alpha[5];int j;alpha[0] = 5;for (j = 1; j < 5; j++){if(j % 2 == 0)alpha[j] = alpha[j - 1] + 2;else alpha[j] = alpha[j - 1] + 3;}
+Analysis,86. Can you analyze the fractures and determine which should be repaired surgically
+Analysis,"78.  Inspect each of these Boolean expressions, and determine whether each one is a sum of products, or a product of sums"
+Synthesis,3. Can you develop method to handle the following case . . . ?
+Evaluation,62. Judge whether it would be possible to survive on an island alone and blinded. Write about it.
+Knowledge,7. Define the meaning of the Olympic Motto.
+Analysis,21. Compare this book to the last book you read.
+Comprehension,18. Describe what happened at...?
+Application,64. What questions would you ask if . . .?
+Analysis,5. How can you categorize ____ according to...?
+Evaluation,17. Conclude and support which economic system leads to a higher standard of living.
+Analysis,23. Compare two dog food commercials. What is the difference between them and how do they both sell their products?
+Application,95. How to construct the selected information system
+Synthesis,69. Pretend you are a librarian recommending this book to someone. Write a paragraph telling what  you would say.
+Knowledge,27. Identify the five major prophets of the Old Testament.
+Comprehension,"54. Classify the following protocols: IP, TCP, HTTP according to the ISO OSI classification"
+Synthesis,55. How would you create/design a new...?
+Analysis,92. How does Hawaii contrast and compare to Florida?
+Evaluation,"20. Critique the other student's (or your own) speech, based on the criteria we have studied this semester."
+Evaluation,8. Judge how well a project meets the criteria of a rubric.
+Comprehension,56. How would you classify the geographic location of your school
+Analysis,20. Develop a set of criteria for distinguishing between a good and bad example of this.
+Evaluation,15. What data was used to evaluate ____________?
+Analysis,25. Conduct an investigation to produce information to support a view.
+Application,7. Predict what would happen if ...
+Knowledge,1. About what proportion of the population of the US is living on farms?
+Evaluation,37. Evaluate board games and justify why rules are important.
+Comprehension,5. Describe how Phillip and Timothy survived on the Cay.
+Comprehension,15. Describe how the linear polarization method can yield corrosion rates
+Synthesis,37. Develop a hypothesis.
+Analysis,99. How would you differentiate between heterodox and mainstream
+Comprehension,81. Tell in your own words the beginning of the book.
+Synthesis,3. Can you design a . . . to . . .?
+Application,15. Choose any U.S. president and explain how he exercised his power as Commander in Chief of the Armed Forces.
+Synthesis,6. Develop a menu for a new healthy foods restaurant
+Comprehension,6. Explain why the story has the title that it does.
+Knowledge,49. Name the food groups and at least two items of food in each group.
+Synthesis,"26. Write a program to calculate the SQRT for Array elements, you may use the Math class function (sqrt), the Array should include 5 Integer elements. The output should be the array elements along with their SQRT value."
+Evaluation,61. Judge the value of . . .?
+Synthesis,20. Create a chart that compares things that use electricity and things that do NOT use electricity.
+Application,58. Take a collection of photographs to demonstrate a particular point.
+Comprehension,60. Restate main idea of story in own words.
+Knowledge,44. List three predominant economic systems that exist
+Evaluation,39. Evaluate the level of galvanic coupling between two metals using basic kinetic information? (level 4)
+Application,48. Solve a math problem using familiar procedure or formula
+Application,84. Construct a Venn diagram to determine the validity of the given argument.
+Knowledge,30. Identify which word begins with the same sound as the s in sun (Knowledge of letter s)
+Comprehension,84. Translate a written text aloud from L2 to English.
+Synthesis,"16. Use your imagination to create a picture about the story. Then, add one new thing that was not in the story."
+Comprehension,17. Identify the key points in the text
+Knowledge,17. How much data can be stored in the cach memory
+Application,19. Demonstrate how the seasons occur.
+Application,21. Demonstrate using the OPAC and your knowledge of library organization to find a book about turtles.
+Evaluation,75. Use a judge and jury to discuss the statement 'Children enjoy Anthony Browne's books because of the illustrations'.
+Synthesis,99.  Develop a network based on the following information: Activity Immediate predecessors
+Evaluation,7. Are you a . . . person?
+Application,78. What would happen if the rainfall doubled in your state next year
+Evaluation,89. Revise the story and specify the type of audience that would enjoy this book.
+Evaluation,83. What is part of this book did you like best. Tell why you like it?
+Analysis,56. In what ways do female offenders differ from male offenders
+Evaluation,16. What judgments can you make about...?
+Knowledge,"61. Recite the poem ""Auto Wreck""."
+Application,92. Construct an analog circuit with the following specifications
+Application,14. Suggest a way to deal with this scenario
+Comprehension,2. Class Facility is an abstract class. Explain what this means
+Knowledge,40. List the levels in Bloom's Taxonomy.
+Knowledge,8. What is Encapsulation ?
+Comprehension,9. Explain what is meant.
+Knowledge,11. List the __________________ in descending order
+Analysis,10. Can you explain what must have happened when . . .?
+Synthesis,41. Develop one plausible ending for all three short stories below.
+Knowledge,14. List the data members
+Knowledge,88. When did you born ?
+Evaluation,"48. Given the data we've looked at on this topic, evaluate how appropriate this conclusion is and defend your answer."
+Evaluation,67. Place the following in order of priority...
+Synthesis,2. Can you propose an alternative plan to . . . ?
+Knowledge,48. Name the artist who painted the Mona Lisa.
+Knowledge,8. Draw and label a diagram of a typical stream.
+Application,18. Construct a model to demonstrate how it will work.
+Analysis,89. How do you analyze a marginally RCT
+Comprehension,25. Explain in your own words what do you mean by the term economics?
+Knowledge,50. Name the four major food groups.
+Knowledge,81. What is a textual index
+Application,17. Compute the volume of a cylinder
+Synthesis,24. Write a JAVA program to show the Overloading concept
+Application,61. Use the distance travelled and cost of petrol to calculate the cost of a coach trip using a spreadsheet.
+Synthesis,77. What might happen if you combined...?
+Evaluation,14. Rate the following recommendations and set the priority _____.
+Synthesis,79. What would happen if . . .?
+Analysis,11. Can you find four different feelings Pa Lia had during the story?
+Synthesis,28. Construct an alternative way to ...
+Comprehension,"55. Classify the following substances as particle, atom, element, molecule, compound"
+Knowledge,33. In Which part of the world does he live
+Application,7. Calculate for x in the following equation: 12x=36
+Knowledge,25. What do you recall ...?
+Synthesis,12. Propose an alternative way to solve ...
+Synthesis,4. Can you propose a model that would change . . . ?
+Comprehension,71. Can you state in your own words what the problem is asking you to do
+Application,2. Apply shading to produce depth in drawing.
+Knowledge,58. Recall the following pictoral example of an implementation of some queue operations
+Comprehension,47. Paraphrase an important speech
+Knowledge,1. List two reference parameters in the setHour function
+Analysis,"12. Trace the contents of matrix from the following statements int matrix[3][2];int j, k;for (j = 0; j < 3; j++)for (k =h 0; k < 2; k++)matrik[j][k] = j + k;"
+Synthesis,48. Given two opposing theories design an experiment to compare them.
+Knowledge,7. Define Inheritance concept
+Comprehension,10. Explain in one sentence what the method incFromN does
+Synthesis,25. Create an equation to represent the solution to this problem.
+Analysis,19. Compare how different children come to school.
+Comprehension,44. Outline the most important insight of the tale.
+Application,91. Construct the 4-Bit Ripple carry Adder Circuit
+Knowledge,38. List reserved words in C programming.
+Synthesis,80. What would you predict/infer from...?
+Application,54. Specify the thickness of a galvanized coating based on atmospheric data? (level 2)
+Analysis,51. Distinguish between the following giving suitable examples
+Application,"94. How do we construct agents that can deliver. ""good"" assistance"
+Comprehension,1. Compare Calliope with Howie. Use the word bank.
+Evaluation,92. Estimate expenditure on HIV/AIDS education
+Synthesis,7. Design a scientific study to test the effect of different kinds of music on hens' egg production.
+Comprehension,80. Tell in your own words how the setting of the story made it more interesting.
+Knowledge,15. How many states are there in USA
+Comprehension,4. Describe 4 types of coupling in software design.
+Evaluation,10. Assess the relative effectiveness of different graphical representations of the same data or biological concept.
+Comprehension,98. Summarize the main point of these two texts in your own words
+Evaluation,94. Estimate roughly how long the collision process takes
+Analysis,72.  How are the adolescents with ASD similar of different from each other in their sources of communication breakdowns ?
+Application,56. How does one specify the syntactical restrictions
+Application,16. Compute the area of actual circles.
+Application,83.  Construct one Turing Machine for computing each of the following functions
+Knowledge,14. How many loop statement available in c++?
+Comprehension,51. Describe the output of this program fragment:
+Synthesis,17. What hypotheses can you develop based on the data ? Why ?
+Analysis,29. Differentiate printf function calls for displaying prompts and for echoing data.
+Evaluation,24. Decide which candidate would best fill the position of principal.
+Evaluation,78. Was Hemingway a great American writer? First you will need to define greatness.
+Knowledge,4. Define four types of traceability.
+Evaluation,14. Can you defend your position about . . .?
+Synthesis,89. Write a song about 'Old MacDonald' who had a bulldozer instead of a farm.
+Synthesis,18. Compose an original work which incorporates five common materials in sculpture.
+Evaluation,26. Decide which method of solving a problem was most effective
+Comprehension,"23. In your own words, tell what the story is about."
+Synthesis,74. Suppose Phillip wasn't rescued shortly after Timothy's death. How long could he have survived?
+Synthesis,25. Write a program that uses nested loops to print the following output:
+Evaluation,68. Predict what will happen next in.
+Knowledge,46. Make a list of facts you learned from the story.
+Comprehension,42. Interpret the pictures.
+Analysis,41. How was this similar to . . .?
+Analysis,5. Break down the components of a standard film camera and explain how they interact to make the machine work.
+Comprehension,"50. Paraphrase this poem about Sheik Schubli, explaining what he was saying about the characteristics of a friend"
+Analysis,93. Investigate whether or not the system can be solved for x; y; z
+Evaluation,64. Justify and nominate ways to prevent animal extinction.
+Application,67.  Sketch a prediction of the field lines for the arrangement of electrodes shown in Figure 2
+Evaluation,21. Can you justify the decisions you have made ?
+Synthesis,1. Apply and integrate several different strategies to solve a mathematical problem (not according to one formula(
+Application,11. Write a C++ statement to declare a variable of type musicType name MyTune.
+Application,11. Can you apply the method used to some experience of your own . . .?
+Synthesis,27. Create plan of local environment by drawing around boxes.
+Synthesis,97. Do you devise a systematic approach in order to get larger progressions
+Synthesis,70. Revise and process to improve the outcome.
+Synthesis,100. How could we develop a coherent measure of success for organisations engaged in this type of activity with young people?
+Evaluation,42. Evaluate your own or a peer's essay in terms of the principles of composition discussed during the semester.
+Knowledge,5. Define mercantilism.
+Knowledge,"4. Based on the above dataType class, list all the function members"
+Synthesis,8. Design a building to house your study.
+Synthesis,95. how do we devise a way to enforce the laws
+Evaluation,63. Judge whether Olympic Ideals are realistic or unrealistic for the contemporary elite athlete.
+Analysis,"33. Examine what helps to make a good Olympics? Think about money, schedules, sports and people."
+Application,6. Show the value of x after running this program fragment
+Knowledge,29. Identify the standard peripheral components of a computer.
+Evaluation,6. Are there students who should not use the Cornell method?
+Application,90. How to construct simple solutions when problems are complex?
+Analysis,43. How would you distinguish between polymyositis and viral myositis in a 42-year-old man with weakness and a rash?
+Comprehension,68. Select the best title for a passage
+Comprehension,49. Paraphrase the poem in your own words
+Analysis,39. How is . . . similar to . . .?
+Analysis,76. Examine differences between the means of each individual switching factor.
+Comprehension,26. Explain in your own words what is meant by mercantilism.
+Evaluation,69. Predict whether Phillip will ever go back to visit the Cay after several years of recovery. Assuming he gets his sight back.
+Comprehension,15. How can you explain what is meant ...?
+Application,49. Solve for the ten following fraction multiplication problems. Please make sure to show all your work.
+Comprehension,19. Determine the author's point of view
+Evaluation,"76. Using straight value depreciation, decide between two copper-nickel alloys for the design of a heat exchanger."
+Evaluation,59. Judge aesthetic qualities and relationship to future values.
+Comprehension,67. Rewrite a part in the poem using a different speaker
+Application,75. Use a sketch too find the exact value of each expression
+Analysis,"7. By comparing the map of the tectonic plates to the earthquake map, what inferences can you make?"
+Knowledge,16. Make a list of the main events of the story.
+Analysis,"14. Compare and contrast preview questions, clarifying questions and anticipated exam questions, including how each relates to the notetaking process?"
+Comprehension,13. How can you describe _____________?
+Comprehension,"37. Given these five corrosion inhibitors, V, W, X, Y, Z, identify which are passivators"
+Analysis,17. Compare fall and spring
+Comprehension,87. Translate the following passage from The Iliad into English.
+Comprehension,"89.  Compare and contrast two treatments of either drapery or animals by Greek sculptors, establishing their artistic contexts"
+Application,"34. In a teaching simulation with your peers role-playing 6th grade students, demonstrate the principle of reinforcement in classroom interactions and prepare a half page description of what happened during the simulation that validated the principle."
+Application,24. Describe an experiment to answer the question of the effects of weight on the fall of an object.
+Application,5. Apply your understanding the Olympic spirit to develop a new motto or slogan.
+Evaluation,93. Estimate the difficulty of the question
+Application,80. What would you do if a heavy growth of bacteria had occurred
+Analysis,8. Can you compare your . . . with that presented in . . .?
+Comprehension,22. What is the difference between atomic and molecular mass?
+Evaluation,7. Judge the value of... What do you think about...?
+Analysis,87. Can you please analyze modern contemporary culture and tell me how your work plays a significant part in the remains of our post-modernist culture ?
+Evaluation,17. What criteria would you use to assess...?
+Knowledge,22. Identify a phrase as a simile
+Analysis,"34. Explain the term conjugal families, by making reference to the different types of societies to which they could belong."
+Comprehension,"66. Rewrite the sentence in your head, following the direction given below"
+Comprehension,43. Outline in your own words how the Leggo's Tomato Paste advertisement sells their product.
+Synthesis,23. Create a set of guidelines to determine the points of a plant susceptible to localized corrosion.
+Evaluation,"12. Prepare a case to present, and evaluate your view about ..."
+Synthesis,"75. Using information from the book about one of the main characters, rewrite the ending of the book."
+Comprehension,20. State in one word ...
+Synthesis,54. How would you change the story to create a different ending?
+Evaluation,28. Defend your use of a specific strategy in solving the problem.
+Application,1. Design or sketch a marketing strategy for your product using a known strategy as a model.
+Synthesis,8. Choose a character. Rewrite a scene from the story from this character's point of view.
+Analysis,79.  Inspect the size of the loaded data: how many objects and variables does the iris data matrix contain?
+Comprehension,16. Draw a flowchart to accept a number and output its factorial.example 1: input 5 -> 5! = 5x4x3x2x1 -> output 120
+Comprehension,20. Determine the next number in a sequence
+Comprehension,1. Can you explain what is happening . . . what is meant . . .?
+Evaluation,95. What do you think is the best thing about coming to Viestal?
+Analysis,73. Examine the data in the EMPLOYEES and DEPARTMENTS tables
+Comprehension,17. Briefly describe the author's approach to the liabilities of the GOTO statement
+Synthesis,"47. Following the identification of the forms of corrosion that were involved in a failure, recommend a solution to avoid this failure?"
+Synthesis,7. Can you write a new recipe for a tasty dish?
+Analysis,16. Compare and contrast two characters in the book.
+Evaluation,"56. improved, reformed or rejected?"
+Knowledge,39. List the characteristics peculiar to the Cubist movement.
+Synthesis,17. Compose a device that would assist an athlete in their training.
+Knowledge,75. What are the representational symbols on maps and charts
+Comprehension,12. How would you express ________________?
+Analysis,64. Differentiate between the following terms along with appropriate examples
+Synthesis,12. Compose a dialogue between Atticus Finch and Tom Robinson when they first met.
+Comprehension,78. Summarize this magazine article.
+Knowledge,52. Name the property that states that
+Knowledge,83. What is the title of the first movie you saw
+Application,22. Demonstrate how your unit's specific student learning outcomes are linked to the mission of UAM.
+Synthesis,38. Develop a plan for a new Olympic Bid System.
+Comprehension,41. In one sentence illustrate the main point of a written passage.
+Synthesis,5. Can you think of an original way for collect and develop the . . . ?
+Application,43. Relate the principle of reinforcement to classroom interactions.
+Synthesis,76. What ideas can you add to...?
+Evaluation,"77. Using the basic principles of socialism discussed in this course, evaluate the US economic system by providing key arguments to support your judgment."
+Evaluation,52. How effective are . . .?
+Application,2. Sketch an experiment to see how plants grow in different kinds of soil.
+Comprehension,73. Summarize a historical document
+Knowledge,65. State how to find a word in a dictionary
+Application,63. What factors would you change if . . .?
+Application,98. Show how E-CRM can be used to improve marketing positioning as explained in the article
+Evaluation,"2. After examining the videotape of a play in a football game, determine the degree to which the defensive team performed effectively and"
+Evaluation,73. suggest ways in which it could have responded more effectively
+Synthesis,92.  How can we combine and abstract facts about a software system to create new knowledge?
+Knowledge,90. when was the UN formed
+Evaluation,19. Critique an experimental design or a research proposal.
+Analysis,60. How does public health reporting differ today from reporting two years before
+Evaluation,23. Decide whether you learned enough about electricity from this book.
+Evaluation,"86. Which of the two algorithms, bubblesort or quicksort, is more efficient? Justify your answer."
+Application,97. Show how to modify Fitch's algorithm given in class today to accommodate non-binary
+Evaluation,55. How would you have handled . . .?
+Analysis,"70. in what ways is oxyperoxidase similar to other oxygenated heme proteins, and how does it differ"
+Comprehension,57. Classify animals into two groups.
+Knowledge,3. Define compound interest.
+Evaluation,66. Listen to two classmates conversing on tape and critique their performance on the basis of the skills covered this semester.
+Comprehension,14. Describe what took place as the Hato was sinking.
+Evaluation,13. Can you defend the idea that Simon's incident with the pig's head is the most mystical in the story?
+Evaluation,91.  Estimate the risk of serious illness for consumers in different susceptible population groups
+Knowledge,22. Name five cities in US.
+Analysis,2. Can you discriminate the difference parts . . . ?
+Comprehension,"33. Explain what the author means by the statement ""our intellectual powers are geared to master static relations."
+Knowledge,76. What are the structure or functions of Congress
+Evaluation,"1. After designing an experiment, examining the results, and drawing conclusions, determines in what ways the experiment could be conducted more effectively in order to draw more productive conclusions in the future."
+Knowledge,92. Which of the following item does not belong to the set ?
+Knowledge,45. Look at the symbol. What is the symbol's purpose on a map?
+Application,13. Write the definition of displaySize() method for each class
+Application,66. Would this information be useful if you had a . . .?
+Comprehension,88. Use the E-pH or Pourbaix diagram of Cr to determine the control current and potential for the anodic protection of a S43000 stainless steel vessel.
+Analysis,58. How do psychologists differ in their general attitudes toward third party presence
+Analysis,6. How can you distinguish the different parts of_____?
+Synthesis,46. Explain why it is likely that a matriarchal family system would be found in a matrilocal or matrilineal society.
+Comprehension,64. Rewrite you predicted equation for the ideal gas law
+Application,62. Use the rule for a semicolon in a sentence.
+Evaluation,2. Can you assess the value or importance of . . . ?
+Comprehension,53.  would you classify the zener diode in this circuit as a series voltage regulator or a shunt voltage regulator
+Evaluation,22. Decide whether you could have survived on the island blind and alone. Write about things that would have been challenging making sure to
+Application,31. How could someone modify the Cornell Method to make it effective for researching a topic for a paper?
+Comprehension,3. Draw a diagram explaining how air pressure affects the weather.
+Evaluation,"46. Given an argument on any position, enumerate the logical fallacies in that argument."
+Knowledge,42. List the steps involved in titration.
+Knowledge,12. List the attributes of the following shape.
+Synthesis,1. Create several different strategies to solve a mathematical problem.
+Knowledge,84. What season are we in right now?
+Knowledge,73. What are major facts about particular cultures and societies
+Knowledge,11. Draw the flow chart of the PNK system
+Application,69. Sketch a typical absorption process in a packed column with regeneration in form of
+Application,"4. Demonstrate and illustrate measures of central tendency and dispersion, write a journal entry."
+Application,15. Choose the best statements that apply ...
+Knowledge,32. in which countries is arabic language spoken
+Synthesis,86. Write a poem about this book.
+Application,82. What approach would you use to prove the truth of the below statement
+Evaluation,38. Evaluate the corrosion monitoring needs of a chemical processing plant
+Synthesis,66. Plan a research paper on a given historical topic
+Evaluation,"5. ""Don't use public instance variables"" is defensive programming techniques. discuss why it is good advice?"
+Analysis,10. Categorize the story into parts and think of a good title for each of the parts.
+Analysis,"22. While the futures market is too risky for most investors, this risk creates the opportunities for large returns. Discuss."
+Knowledge,72. State the rule for using a semicolon in a sentence.
+Comprehension,30. Explain the possible uses described in class for the space to the left of the vertical line.
+Application,5. Interpret the graph and state how many trees were cut down to produce paper.
+Analysis,98. how the investigation was undertaken
+Knowledge,69. State the guidelines to design an anodic protection system
+Synthesis,88. Write a short story relating a personal experience in the style of a picaresque novel.
+Knowledge,13. List two local variables in the main function
+Analysis,38. How does...compare/contrast with...?
+Analysis,"83. Inspect the pattern of GPS positions relative to the ""known"" published value"
+Knowledge,47. Name 5 steps that follow the taking of notes (within 24 hours or less)?
+Evaluation,74. decide about the most exciting part of the book. being sure to give at least three reasons why?
+Synthesis,9. Combine any two sports to develop a new Olympic sport.
+Knowledge,87. When did the second world war happen
+Application,100. Show me how you would check the brake lights are working on this car
+Analysis,"8. Discriminate the different parts of the story (introduction, development, climax, resolution.)"
+Synthesis,93. How to combine virtual symmetry and symbolic model checking effectively
+Analysis,85. How to inspect and maintain fresh water plumbing systems properly
+Synthesis,60. Invent a machine to do a specific task.
+Comprehension,7. Describe in your own words how to borrow a book from the library.
+Knowledge,34. Label any Olympic sporting apparatus with design features.
+Application,38. Make up a puzzle game using the ideas from the study area.
+Comprehension,77. Summarize the basic tenets of deconstructionism.
+Application,89. How to Construct the Optimal Maintenance Problem
+Application,8. Write a textbook about this topic for others.
+Analysis,17. Draw a diagram to show the memory configuration after the following statements ....
+Evaluation,4. Develop a proof ... and justify each step ...
+Analysis,61. How does an endorsement differ from a teaching certificate
+Comprehension,45. Outline the mechanisms employed by bacteria allowing them to evade phagocytic destruction.
+Evaluation,9. Assess the importance of understanding seasonal patters.
+Knowledge,13. How many kilometers from your home to the university
+Synthesis,57. Identify one problem in the book and give an alternate solution one not given by the author.
+Synthesis,"51. how do the clauses and expressions given in the article which replace GOTO statements, lead to the three traditional control statements"
+Analysis,63.  How do we differentiate between an interview and an interrogation?
+Comprehension,92.   Describe and compare the role of Islamic law in the legal systems of Malaysia and Pakistan
+Knowledge,66. State the characteristics of each type of corrosion testing studied
+Comprehension,9. Describe in your own words what happens when a stream's velocity slows.
+Analysis,68. How would you differentiate a project from a program
+Knowledge,91. Which of the following is the method for determining the volume of a cylinder?
+Evaluation,53. How would you decide about...?
+Comprehension,39. Illustrate what you think the main idea was.
+Application,"86. How can we construct H given I, B and E?"
+Knowledge,95. Which technology is used by laser printer
+Analysis,1. Analyze the selected information.
+Analysis,20. Compare the place where the story happened with where you live.
+Application,50. Would you solve these two problems using similar approaches
+Comprehension,79. Tell how Phillip kept himself alive after Timothy died.
+Synthesis,35. Design costumes for the characters.
+Knowledge,36.  Label the parts of the microscope shown on the right
+Comprehension,"29. Explain the double meaning the author attributes to the term ""successive action descriptions"""
+Evaluation,54. How would you feel if . . .?
+Synthesis,91. How do you combine the results of various individual tests to determine whether a student can progress to a next semester / phase / year?
+Comprehension,"36. Given a graph of production trends in automobiles, describe what the graph represents in a memo to your boss."
+Analysis,"90. Contrast the treatment of ""well known"" trademarks provided by Paris Article and by TRIPS Article"
+Comprehension,93. Express the rule in function notation
+Evaluation,97. What do you think are the strengths of using integrated math in your program?
+Knowledge,100. Who was the writer of the Hamilton
+Analysis,84. How does your agency inspect against its expectation for operators
+Application,20. Demonstrate how this could work in an industry setting?
+Analysis,9. Analyze a distinction. State the point of view of . . .
+Synthesis,5. Can you invent another character for the story?
+Knowledge,21. How much water does an elephant drink
+Synthesis,4. Can you develop a proposal which would . . .?
+Analysis,55. How does autonomy differ with age
+Synthesis,58. If you had access to all resources how would you deal with . . .?
+Knowledge,23. Recall the main components of the flowchart
+Application,40. Participate in a mock election
+Knowledge,19. How much is your weight
+Synthesis,30. Design a machine to perform a specific task.
+Synthesis,62. Make a radio announcement that advertise the book. Write it out.
+Synthesis,16. Compose a complete C program that reads text strings from a text file into a suitable data
+Knowledge,10. List the fractions you know and can show....
+Knowledge,82. What is the setting of To Kill a Mockingbird?
+Evaluation,72. Select the most effective solution.
+Analysis,47. Make a diagnosis or analyze a case study.
+Comprehension,70. State in your own words where in the library to find previous issues of journals that are no longer in the display racks.
+Evaluation,36. Evaluate appropriate and inappropriate actions of characters.
+Application,12. Draw an illustration of the linked list after the execution of each of the statement below. (Use the original illustration for each question).
+Comprehension,32. Explain what a poem means.
+Comprehension,11. Describe nuclear transport to a lay person.
+Comprehension,3. Complete an analogy (analogy tasks are inference tasks)
+Synthesis,44. Draw a painting that uses various principles of perspective to achieve its effect.
+Application,32. How might lifestyles in the United States be modified if a more socialistic system were adopted?
+Analysis,14. What distinctions can be made about...and...?
+Analysis,23. What evidence can you list for...
+Synthesis,67. Predict the differences of a planet with no seasonal changes.
+Evaluation,"49. Given the two solutions to the stated programming problem, rate the solutions in  terms of efficiency and readability."
+Application,26. Construct a simple payroll program that computes net pay for those working 40 hours or less and net pay for those working over 40 hours.
+Evaluation,30. Design a healthy menu that you think most people would enjoy using the healthy eating guide.
+Knowledge,25. Identify ordinal positions
+Analysis,30. Distinguish between micro and macro economics.
+Application,46. How would you relate position concept with position strategy
+Knowledge,"6. Define stream bank, floodplain and substrate."
+Knowledge,98. who was the first man on the moon
+Evaluation,3. What limitation does X have?
+Evaluation,18. Construct a poster that will advertise your new food product in an exciting and irresistible way.
+Application,51. Use Laplace to solve the following problems
