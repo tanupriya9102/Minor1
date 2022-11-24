@@ -89,8 +89,10 @@ section {
   cursor: pointer;
   text-transform: capitalize;
 }
-.ques-btn{
+a .ques-btn{
   font-size: 3rem;
+  color: #eee;
+
 
 }
 .btn:hover {
